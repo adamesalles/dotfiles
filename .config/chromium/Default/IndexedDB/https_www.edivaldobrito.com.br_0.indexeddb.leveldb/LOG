@@ -1,5 +1,0 @@
-2020/06/27-16:30:04.449 b38 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_www.edivaldobrito.com.br_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/27-16:31:08.650 84d Level-0 table #5: started
-2020/06/27-16:31:08.723 84d Level-0 table #5: 6365 bytes OK
-2020/06/27-16:31:08.752 84d Delete type=0 #3
-2020/06/27-16:31:08.753 84d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

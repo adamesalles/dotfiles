@@ -1,5 +1,0 @@
-2020/06/27-16:48:35.026 20c3 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_portal.estacio.br_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/27-16:52:03.966 21ef Level-0 table #5: started
-2020/06/27-16:52:04.005 21ef Level-0 table #5: 2189 bytes OK
-2020/06/27-16:52:04.154 21ef Delete type=0 #3
-2020/06/27-16:52:04.154 21ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)

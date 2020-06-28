@@ -1,8 +1,0 @@
-2020/06/26-14:52:26.636 533d Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_cefetrjbr-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/26-14:52:26.637 533d Recovering log #703
-2020/06/26-14:52:26.637 533d Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_cefetrjbr-my.sharepoint.com_0.indexeddb.leveldb/000703.log 
-2020/06/26-14:52:58.813 643 Level-0 table #707: started
-2020/06/26-14:52:58.813 643 Level-0 table #707: 0 bytes OK
-2020/06/26-14:52:58.843 643 Delete type=0 #703
-2020/06/26-14:52:58.843 643 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/06/26-14:52:58.843 643 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

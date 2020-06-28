@@ -1,8 +1,0 @@
-2020/06/27-23:29:57.110 3d8c Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/27-23:29:57.110 3d8c Recovering log #181
-2020/06/27-23:29:57.111 3d8c Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000181.log 
-2020/06/27-23:30:50.787 685 Level-0 table #187: started
-2020/06/27-23:30:50.788 685 Level-0 table #187: 0 bytes OK
-2020/06/27-23:30:50.900 685 Delete type=0 #181
-2020/06/27-23:30:50.901 685 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/06/27-23:30:50.901 685 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

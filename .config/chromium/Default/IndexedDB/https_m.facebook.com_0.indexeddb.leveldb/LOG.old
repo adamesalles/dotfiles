@@ -1,5 +1,0 @@
-2020/06/24-21:23:51.555 9bb3 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_m.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/24-21:30:03.691 8083 Level-0 table #5: started
-2020/06/24-21:30:03.724 8083 Level-0 table #5: 822 bytes OK
-2020/06/24-21:30:03.756 8083 Delete type=0 #3
-2020/06/24-21:30:03.756 8083 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

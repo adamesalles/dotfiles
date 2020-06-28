@@ -1,5 +1,0 @@
-2020/06/25-23:13:09.345 3ab4 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/25-23:16:22.541 3b8d Level-0 table #5: started
-2020/06/25-23:16:22.574 3b8d Level-0 table #5: 28070 bytes OK
-2020/06/25-23:16:22.612 3b8d Delete type=0 #3
-2020/06/25-23:16:22.613 3b8d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

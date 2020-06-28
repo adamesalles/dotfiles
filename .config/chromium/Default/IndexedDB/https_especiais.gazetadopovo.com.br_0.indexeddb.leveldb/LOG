@@ -1,5 +1,0 @@
-2020/06/18-16:44:59.956 19e0 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_especiais.gazetadopovo.com.br_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/18-16:46:00.548 a17 Level-0 table #5: started
-2020/06/18-16:46:00.595 a17 Level-0 table #5: 8718 bytes OK
-2020/06/18-16:46:00.631 a17 Delete type=0 #3
-2020/06/18-16:46:00.631 a17 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,3 +1,0 @@
-FPM
-STARDUST
-checksum_v1 = 1f81157a07268348d9c3a0cab7310c60

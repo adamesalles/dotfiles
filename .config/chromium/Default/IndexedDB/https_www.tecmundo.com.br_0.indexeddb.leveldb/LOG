@@ -1,5 +1,0 @@
-2020/06/26-21:10:18.769 7025 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_www.tecmundo.com.br_0.indexeddb.leveldb/MANIFEST-000001
-2020/06/26-21:10:51.088 62a Level-0 table #5: started
-2020/06/26-21:10:51.119 62a Level-0 table #5: 3782 bytes OK
-2020/06/26-21:10:51.149 62a Delete type=0 #3
-2020/06/26-21:10:51.149 62a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
