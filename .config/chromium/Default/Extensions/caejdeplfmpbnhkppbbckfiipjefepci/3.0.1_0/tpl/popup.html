@@ -1,0 +1,84 @@
+<html>
+    <head>
+        <title>POPUP</title>
+        <meta charset="UTF-8"/>
+        <script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
+
+        <script type="text/javascript" src="/js/getter.js"></script>
+        <script type="text/javascript" src="/js/popup.js"></script>
+		<script type="text/javascript" src="/js/misc.js"></script>
+        <link rel="stylesheet" href="/css/popup.css"/>
+    </head>
+
+    <body id='FvUiF6tibKxynwDtY'>
+
+        <div id='loading' class='block active'>
+            <p>Carregando conteúdo...</p>
+        </div>
+
+        <div id='notloaded' class='block'>
+            <p>Outro plugin de descontos já foi carregado.</p>
+        </div>
+
+        <div id='intro' class='block'>
+            <p style='padding:5px'>O <span class='name'></span> não necessita de ações por parte do usuário. Ao acessar uma página de um produto de lojas monitoradas, a barra aparece automaticamente trazendo as informações.</p>
+
+            <hr/>
+
+            <p>As lojas monitoradas podem ser consultadas aqui: <button class='btn showblock' name='lojas'>LOJAS</button></p>
+
+
+            <hr/>
+            <p style='padding-right: 150px; margin:0px 0px 10px'>Caso tenha encontrado algum erro ou o plugin não apareceu onde deveria aparecer entre em contato: 
+                <button class='btn showblock' name='report' style='top:6px'>CONTATO</button>
+            </p>
+			
+            <hr/>
+
+            <div id="lojascupons">
+
+                <div id='loadingcupons' class='show-without-cupons'>
+                    <p>Atualizando cupons...</p>
+                </div>
+
+                <p class='hide-without-cupons'>
+                    <input id='buscalojas' type='text' style='float:right' placeholder='Busca'>
+                    Lojas com Cupons Disponíveis:
+                </p>
+
+                <div class='hide-without-cupons' style="width: 100%; height: 260px; overflow-y: scroll">	
+                    <table style="background:white; width:100%; border-radius:5px">		
+                        <tbody>
+                            <tr class='template'>
+                                <td>
+                                    <img class='logo' ba-src='storeimage'>
+                                    <div class='handler' ba-value='nome'></div>
+                                    <div class='qtdes'><span ba-value='qtcupons'></span> <span ba-value='dscupom'></span> <img class='caret down' src='/lay/caret-down.png' > <img class='caret up' src='/lay/caret-up.png' ></div>
+                                    <div class='cupomlist'>
+                                        <div class='template'>
+											<div  target='_blank' href='#' ba-href='href'>
+												<img src='/lay/frame-cupom.png'> <b ba-value='titulo'></b>
+											</div>
+										</div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>	
+            </div>
+        </div>
+
+        <div id='lojas' class='block'>
+            <img name='intro' class='showblock close' src='/lay/x.png' />
+            <div id="fakeiframe"></div>
+        </div>		
+
+        <div id='report' class='block'>	
+            <img name='intro' class='showblock close' src='/lay/x.png' />
+            <iframe src="" frameborder="0" style="height:500px"></iframe>
+        </div>
+
+    </body>
+</html>
+

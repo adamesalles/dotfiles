@@ -1,0 +1,15 @@
+2020/06/22-14:11:04.476 1800 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_www.gatsbyjs.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/22-14:11:04.476 1800 Recovering log #7
+2020/06/22-14:11:04.477 1800 Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_www.gatsbyjs.org_0.indexeddb.leveldb/000007.log 
+2020/06/22-14:11:54.684 ec7 Level-0 table #12: started
+2020/06/22-14:11:54.703 ec7 Level-0 table #12: 16208 bytes OK
+2020/06/22-14:11:54.743 ec7 Delete type=0 #7
+2020/06/22-14:11:54.744 ec7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/22-14:11:54.744 ec7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1e\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00t\x00u\x00t\x00o\x00r\x00i\x00a\x00l\x00/\x00p\x00a\x00r\x00t\x00-\x00z\x00e\x00r\x00o\x00/' @ 791 : 1
+2020/06/22-14:11:54.744 ec7 Compacting 1@1 + 1@2 files
+2020/06/22-14:11:54.782 ec7 Generated table #13@1: 18 keys, 485 bytes
+2020/06/22-14:11:54.782 ec7 Compacted 1@1 + 1@2 files => 485 bytes
+2020/06/22-14:11:54.819 ec7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/22-14:11:54.820 ec7 Delete type=2 #12
+2020/06/22-14:11:54.820 ec7 Delete type=2 #9
+2020/06/22-14:11:54.820 ec7 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1e\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00t\x00u\x00t\x00o\x00r\x00i\x00a\x00l\x00/\x00p\x00a\x00r\x00t\x00-\x00z\x00e\x00r\x00o\x00/' @ 791 : 1 .. (end); will stop at (end)

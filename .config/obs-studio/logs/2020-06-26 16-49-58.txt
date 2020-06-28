@@ -1,0 +1,806 @@
+16:49:58.630: CPU Name: Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz
+16:49:58.630: CPU Speed: 800.041MHz
+16:49:58.631: Physical Cores: 2, Logical Cores: 4
+16:49:58.631: Physical Memory: 7869MB Total, 6447MB Free
+16:49:58.631: Kernel Version: Linux 5.6.16-1-MANJARO
+16:49:58.631: Distribution: "Manjaro Linux" Unknown
+16:49:58.632: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.8
+16:49:58.645: Portable mode: false
+16:49:59.322: OBS 25.0.8-1 (linux)
+16:49:59.322: ---------------------------------
+16:49:59.328: ---------------------------------
+16:49:59.328: audio settings reset:
+16:49:59.328: 	samples per sec: 44100
+16:49:59.328: 	speakers:        2
+16:49:59.377: ---------------------------------
+16:49:59.378: Initializing OpenGL...
+16:49:59.698: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 520 (SKL GT2)
+16:49:59.698: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.0.7, shading language 4.60
+16:50:00.511: ---------------------------------
+16:50:00.512: video settings reset:
+16:50:00.512: 	base resolution:   1366x768
+16:50:00.512: 	output resolution: 1364x768
+16:50:00.512: 	downscale filter:  Bicubic
+16:50:00.512: 	fps:               30/1
+16:50:00.512: 	format:            NV12
+16:50:00.512: 	YUV mode:          601/Partial
+16:50:00.512: NV12 texture support not available
+16:50:00.527: Audio monitoring device:
+16:50:00.527: 	name: Padrão
+16:50:00.527: 	id: default
+16:50:00.527: ---------------------------------
+16:50:00.579: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+16:50:00.946: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:50:00.946: No blackmagic support
+16:50:01.355: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: não é possível abrir arquivo compartilhado: Arquivo ou diretório inexistente
+16:50:01.355: 
+16:50:01.355: FFMPEG VAAPI supported
+16:50:02.641: VLC found, VLC video source enabled
+16:50:02.660: ---------------------------------
+16:50:02.660:   Loaded Modules:
+16:50:02.660:     vlc-video.so
+16:50:02.660:     text-freetype2.so
+16:50:02.660:     rtmp-services.so
+16:50:02.660:     obs-x264.so
+16:50:02.660:     obs-transitions.so
+16:50:02.660:     obs-outputs.so
+16:50:02.660:     obs-libfdk.so
+16:50:02.660:     obs-filters.so
+16:50:02.660:     obs-ffmpeg.so
+16:50:02.660:     linux-v4l2.so
+16:50:02.660:     linux-pulseaudio.so
+16:50:02.660:     linux-jack.so
+16:50:02.660:     linux-decklink.so
+16:50:02.660:     linux-capture.so
+16:50:02.660:     linux-alsa.so
+16:50:02.660:     image-source.so
+16:50:02.660:     frontend-tools.so
+16:50:02.660:     decklink-ouput-ui.so
+16:50:02.660: ---------------------------------
+16:50:02.660: ==== Startup complete ===============================================
+16:50:02.704: All scene data cleared
+16:50:02.704: ------------------------------------------------
+16:50:02.724: pulse-input: Server name: 'pulseaudio 13.0'
+16:50:02.725: pulse-input: Audio format: float32le, 32000 Hz, 2 channels
+16:50:02.725: pulse-input: Started recording from 'echoCancel_sink.monitor'
+16:50:02.725: [Loaded global audio device]: 'Desktop Áudio'
+16:50:02.726: pulse-input: Server name: 'pulseaudio 13.0'
+16:50:02.727: pulse-input: Audio format: float32le, 32000 Hz, 2 channels
+16:50:02.727: pulse-input: Started recording from 'echoCancel_source'
+16:50:02.727: [Loaded global audio device]: 'Mic/Aux'
+16:50:03.188: [Media Source 'Fonte de mídia']: settings:
+16:50:03.188: 	input:                   /home/adame/Imagens/giphy.gif
+16:50:03.188: 	input_format:            (null)
+16:50:03.188: 	speed:                   100
+16:50:03.188: 	is_looping:              yes
+16:50:03.188: 	is_hw_decoding:          no
+16:50:03.188: 	is_clear_on_media_end:   yes
+16:50:03.188: 	restart_on_activate:     yes
+16:50:03.188: 	close_when_inactive:     no
+16:50:03.189: Switched to scene 'Main Scene'
+16:50:03.189: ------------------------------------------------
+16:50:03.189: Loaded scenes:
+16:50:03.189: - scene 'Main Scene':
+16:50:03.315:     - source: 'Fonte de mídia' (ffmpeg_source)
+16:50:03.315:     - source: 'Imagem' (image_source)
+16:50:03.315: ------------------------------------------------
+16:57:34.655: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Desktop Áudio)
+16:57:34.655: 
+16:58:43.158: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+16:58:43.164: User added source 'Captura de Janela (Xcomposite)' (xcomposite_input) to scene 'Main Scene'
+16:58:43.181: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+16:58:46.514: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+16:58:58.516: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+16:58:58.516: 	title: Meet: Podcast com os Manos - Chromium
+16:58:58.516: 	class: chromium
+16:58:58.516: 	Bit depth: 24
+16:58:58.516: 	Found proper GLXFBConfig (in 24): yes
+16:58:58.516: 
+16:59:01.083: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+16:59:01.083: 	title: Meet: Podcast com os Manos - Chromium
+16:59:01.083: 	class: chromium
+16:59:01.083: 	Bit depth: 24
+16:59:01.083: 	Found proper GLXFBConfig (in 24): yes
+16:59:01.083: 
+16:59:18.585: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+16:59:18.585: 	title: Meet: Podcast com os Manos - Chromium
+16:59:18.585: 	class: chromium
+16:59:18.585: 	Bit depth: 24
+16:59:18.585: 	Found proper GLXFBConfig (in 24): yes
+16:59:18.585: 
+16:59:20.583: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+16:59:20.583: 	title: Meet: Podcast com os Manos - Chromium
+16:59:20.583: 	class: chromium
+16:59:20.583: 	Bit depth: 24
+16:59:20.583: 	Found proper GLXFBConfig (in 24): yes
+16:59:20.583: 
+17:01:11.417: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:01:11.417: 	title: Meet: Podcast com os Manos - Chromium
+17:01:11.417: 	class: chromium
+17:01:11.417: 	Bit depth: 24
+17:01:11.417: 	Found proper GLXFBConfig (in 24): yes
+17:01:11.417: 
+17:01:42.350: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:01:42.350: 	title: Meet: Podcast com os Manos - Chromium
+17:01:42.350: 	class: chromium
+17:01:42.350: 	Bit depth: 24
+17:01:42.350: 	Found proper GLXFBConfig (in 24): yes
+17:01:42.350: 
+17:01:44.052: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:01:44.052: 	title: Meet: Podcast com os Manos - Chromium
+17:01:44.052: 	class: chromium
+17:01:44.052: 	Bit depth: 24
+17:01:44.052: 	Found proper GLXFBConfig (in 24): yes
+17:01:44.052: 
+17:02:51.850: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:02:51.850: 	title: Meet: Podcast com os Manos - Chromium
+17:02:51.850: 	class: chromium
+17:02:51.850: 	Bit depth: 24
+17:02:51.850: 	Found proper GLXFBConfig (in 24): yes
+17:02:51.850: 
+17:02:53.518: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:02:53.518: 	title: Meet: Podcast com os Manos - Chromium
+17:02:53.518: 	class: chromium
+17:02:53.518: 	Bit depth: 24
+17:02:53.518: 	Found proper GLXFBConfig (in 24): yes
+17:02:53.518: 
+17:02:55.019: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:02:55.019: 	title: Meet: Podcast com os Manos - Chromium
+17:02:55.019: 	class: chromium
+17:02:55.019: 	Bit depth: 24
+17:02:55.019: 	Found proper GLXFBConfig (in 24): yes
+17:02:55.019: 
+17:03:41.794: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:03:41.794: 	title: Meet: Podcast com os Manos - Chromium
+17:03:41.794: 	class: chromium
+17:03:41.794: 	Bit depth: 24
+17:03:41.794: 	Found proper GLXFBConfig (in 24): yes
+17:03:41.794: 
+17:05:40.418: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:05:40.418: 	title: Meet: Podcast com os Manos - Chromium
+17:05:40.418: 	class: chromium
+17:05:40.418: 	Bit depth: 24
+17:05:40.418: 	Found proper GLXFBConfig (in 24): yes
+17:05:40.418: 
+17:05:41.520: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:05:41.520: 	title: Meet: Podcast com os Manos - Chromium
+17:05:41.520: 	class: chromium
+17:05:41.520: 	Bit depth: 24
+17:05:41.520: 	Found proper GLXFBConfig (in 24): yes
+17:05:41.520: 
+17:05:46.451: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:05:46.451: 	title: Meet: Podcast com os Manos - Chromium
+17:05:46.451: 	class: chromium
+17:05:46.451: 	Bit depth: 24
+17:05:46.451: 	Found proper GLXFBConfig (in 24): yes
+17:05:46.451: 
+17:05:51.718: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:05:51.718: 	title: Meet: Podcast com os Manos - Chromium
+17:05:51.718: 	class: chromium
+17:05:51.718: 	Bit depth: 24
+17:05:51.718: 	Found proper GLXFBConfig (in 24): yes
+17:05:51.718: 
+17:05:53.615: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:05:53.615: 	title: Meet: Podcast com os Manos - Chromium
+17:05:53.615: 	class: chromium
+17:05:53.615: 	Bit depth: 24
+17:05:53.615: 	Found proper GLXFBConfig (in 24): yes
+17:05:53.615: 
+17:07:43.452: v4l2-input: Start capture from 
+17:07:43.453: v4l2-input: Unable to open device
+17:07:43.453: v4l2-input: Initialization failed
+17:07:43.455: User added source 'Dispositivo de Captura de Vídeo (V4L2)' (v4l2_input) to scene 'Main Scene'
+17:07:43.486: v4l2-input: /dev/video1 seems to not support video capture
+17:07:43.488: v4l2-input: Found device 'EasyCamera: EasyCamera' at /dev/video0
+17:07:43.489: v4l2-input: Found input 'Camera 1' (Index 0)
+17:07:43.489: v4l2-controls: setting default for Power Line Frequency to 1
+17:07:43.489: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:07:43.489: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:07:43.489: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:07:43.489: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:07:43.489: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:07:43.489: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:07:43.490: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+17:07:43.491: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:07:43.493: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:07:43.493: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:07:43.493: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:07:43.493: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:07:43.493: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:07:43.493: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:07:43.493: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+17:07:43.494: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:07:43.497: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:07:43.513: v4l2-input: Start capture from /dev/video0
+17:07:43.513: v4l2-input: Unable to set input 0
+17:07:43.513: v4l2-input: Initialization failed
+17:07:57.617: User Removed source 'Dispositivo de Captura de Vídeo (V4L2)' (v4l2_input) from scene 'Main Scene'
+17:08:05.065: v4l2-input: Start capture from 
+17:08:05.065: v4l2-input: Unable to open device
+17:08:05.065: v4l2-input: Initialization failed
+17:08:05.068: User added source 'Dispositivo de Captura de Vídeo (V4L2)' (v4l2_input) to scene 'Main Scene'
+17:08:05.075: v4l2-input: /dev/video1 seems to not support video capture
+17:08:05.075: v4l2-input: Found device 'EasyCamera: EasyCamera' at /dev/video0
+17:08:05.076: v4l2-input: Found input 'Camera 1' (Index 0)
+17:08:05.076: v4l2-controls: setting default for Power Line Frequency to 1
+17:08:05.076: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:08:05.076: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:08:05.076: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:08:05.076: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:08:05.076: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:08:05.076: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:08:05.077: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+17:08:05.077: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:08:05.079: v4l2-input: Start capture from /dev/video0
+17:08:05.080: v4l2-input: Input: 0
+17:08:05.080: v4l2-input: Resolution: 640x360
+17:08:05.080: v4l2-input: Pixelformat: VYUY
+17:08:05.080: v4l2-input: Linesize: 1280 Bytes
+17:08:05.080: v4l2-input: Framerate: 30,00 fps
+17:08:05.080: v4l2-helpers: Request for buffers failed !
+17:08:05.080: v4l2-input: Failed to map buffers
+17:08:05.080: v4l2-input: Initialization failed
+17:08:05.083: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:08:05.083: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:08:05.083: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:08:05.083: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:08:05.083: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:08:05.083: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:08:05.083: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+17:08:05.084: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:08:05.089: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:08:05.113: v4l2-input: Start capture from /dev/video0
+17:08:05.113: v4l2-input: Unable to set input 0
+17:08:05.114: v4l2-input: Initialization failed
+17:08:15.446: v4l2-input: Start capture from /dev/video0
+17:08:15.447: v4l2-input: Unable to set input 0
+17:08:15.447: v4l2-input: Initialization failed
+17:08:15.946: v4l2-input: Start capture from 
+17:08:15.946: v4l2-input: Unable to open device
+17:08:15.946: v4l2-input: Initialization failed
+17:08:18.150: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:08:18.150: 	title: Meet: Podcast com os Manos - Chromium
+17:08:18.150: 	class: chromium
+17:08:18.150: 	Bit depth: 24
+17:08:18.150: 	Found proper GLXFBConfig (in 24): yes
+17:08:18.150: 
+17:08:27.778: User Removed source 'Dispositivo de Captura de Vídeo (V4L2)' (v4l2_input) from scene 'Main Scene'
+17:08:32.226: v4l2-input: Start capture from 
+17:08:32.226: v4l2-input: Unable to open device
+17:08:32.226: v4l2-input: Initialization failed
+17:08:32.232: User added source 'Dispositivo de Captura de Vídeo (V4L2)' (v4l2_input) to scene 'Main Scene'
+17:08:32.240: v4l2-input: /dev/video1 seems to not support video capture
+17:08:32.352: v4l2-input: Found device 'EasyCamera: EasyCamera' at /dev/video0
+17:08:32.353: v4l2-input: Found input 'Camera 1' (Index 0)
+17:08:32.353: v4l2-controls: setting default for Power Line Frequency to 1
+17:08:32.354: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:08:32.354: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:08:32.354: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:08:32.354: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:08:32.354: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:08:32.354: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:08:32.355: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+17:08:32.356: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:08:32.361: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:08:32.361: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:08:32.361: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:08:32.361: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:08:32.361: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:08:32.361: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:08:32.362: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+17:08:32.363: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:08:32.368: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:08:32.379: v4l2-input: Start capture from /dev/video0
+17:08:32.380: v4l2-input: Input: 0
+17:08:32.397: v4l2-input: Resolution: 640x360
+17:08:32.397: v4l2-input: Pixelformat: VYUY
+17:08:32.397: v4l2-input: Linesize: 1280 Bytes
+17:08:32.397: v4l2-input: Framerate: 30,00 fps
+17:09:30.093: v4l2-input: /dev/video1 seems to not support video capture
+17:09:30.093: v4l2-input: Found device 'EasyCamera: EasyCamera' at /dev/video0
+17:09:30.094: v4l2-input: Found input 'Camera 1' (Index 0)
+17:09:30.094: v4l2-controls: setting default for Power Line Frequency to 1
+17:09:30.095: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:09:30.095: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:09:30.095: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:09:30.095: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:09:30.095: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:09:30.095: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:09:30.096: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:09:30.096: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:09:30.097: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:09:30.097: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:09:30.097: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:09:30.097: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:09:30.097: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:09:30.098: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:09:30.098: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:09:30.099: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:09:31.620: v4l2-input: Stopped capture after 888 frames
+17:09:31.739: v4l2-input: Start capture from /dev/video0
+17:09:31.740: v4l2-input: Input: 0
+17:09:31.757: v4l2-input: Resolution: 640x360
+17:09:31.757: v4l2-input: Pixelformat: VYUY
+17:09:31.757: v4l2-input: Linesize: 1280 Bytes
+17:09:31.757: v4l2-input: Framerate: 30,00 fps
+17:10:03.233: v4l2-input: /dev/video1 seems to not support video capture
+17:10:03.233: v4l2-input: Found device 'EasyCamera: EasyCamera' at /dev/video0
+17:10:03.234: v4l2-input: Found input 'Camera 1' (Index 0)
+17:10:03.234: v4l2-controls: setting default for Power Line Frequency to 1
+17:10:03.234: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:10:03.234: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:10:03.234: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:10:03.234: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:10:03.234: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:10:03.234: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:10:03.235: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:10:03.236: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:10:03.236: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:10:03.236: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:10:03.236: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:10:03.236: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:10:03.236: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:10:03.236: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:10:03.237: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:10:03.238: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:10:06.772: v4l2-input: Stopped capture after 1019 frames
+17:10:06.891: v4l2-input: Start capture from /dev/video0
+17:10:06.892: v4l2-input: Input: 0
+17:10:06.908: v4l2-input: Resolution: 640x360
+17:10:06.908: v4l2-input: Pixelformat: VYUY
+17:10:06.908: v4l2-input: Linesize: 1280 Bytes
+17:10:06.908: v4l2-input: Framerate: 30,00 fps
+17:10:07.751: v4l2-input: Stopped capture after 6 frames
+17:10:07.868: v4l2-input: Start capture from /dev/video0
+17:10:07.868: v4l2-input: Input: 0
+17:10:07.885: v4l2-input: Resolution: 640x360
+17:10:07.885: v4l2-input: Pixelformat: VYUY
+17:10:07.885: v4l2-input: Linesize: 1280 Bytes
+17:10:07.885: v4l2-input: Framerate: 30,00 fps
+17:10:08.592: v4l2-input: Stopped capture after 2 frames
+17:10:08.709: v4l2-input: Start capture from /dev/video0
+17:10:08.710: v4l2-input: Input: 0
+17:10:08.728: v4l2-input: Resolution: 640x360
+17:10:08.729: v4l2-input: Pixelformat: VYUY
+17:10:08.729: v4l2-input: Linesize: 1280 Bytes
+17:10:08.729: v4l2-input: Framerate: 30,00 fps
+17:10:09.136: v4l2-input: Stopped capture after 0 frames
+17:10:09.282: v4l2-input: Start capture from /dev/video0
+17:10:09.283: v4l2-input: Input: 0
+17:10:09.300: v4l2-input: Resolution: 640x360
+17:10:09.300: v4l2-input: Pixelformat: VYUY
+17:10:09.300: v4l2-input: Linesize: 1280 Bytes
+17:10:09.300: v4l2-input: Framerate: 30,00 fps
+17:10:09.708: v4l2-input: Stopped capture after 0 frames
+17:10:09.856: v4l2-input: Start capture from /dev/video0
+17:10:09.857: v4l2-input: Input: 0
+17:10:09.874: v4l2-input: Resolution: 640x360
+17:10:09.874: v4l2-input: Pixelformat: VYUY
+17:10:09.874: v4l2-input: Linesize: 1280 Bytes
+17:10:09.874: v4l2-input: Framerate: 30,00 fps
+17:10:10.280: v4l2-input: Stopped capture after 0 frames
+17:10:10.426: v4l2-input: Start capture from /dev/video0
+17:10:10.427: v4l2-input: Input: 0
+17:10:10.444: v4l2-input: Resolution: 640x360
+17:10:10.444: v4l2-input: Pixelformat: VYUY
+17:10:10.444: v4l2-input: Linesize: 1280 Bytes
+17:10:10.444: v4l2-input: Framerate: 30,00 fps
+17:10:11.355: v4l2-input: Stopped capture after 8 frames
+17:10:11.471: v4l2-input: Start capture from /dev/video0
+17:10:11.471: v4l2-input: Input: 0
+17:10:11.488: v4l2-input: Resolution: 640x360
+17:10:11.488: v4l2-input: Pixelformat: VYUY
+17:10:11.488: v4l2-input: Linesize: 1280 Bytes
+17:10:11.488: v4l2-input: Framerate: 30,00 fps
+17:10:14.702: User Removed source 'Dispositivo de Captura de Vídeo (V4L2)' (v4l2_input) from scene 'Main Scene'
+17:10:14.726: v4l2-input: Stopped capture after 77 frames
+17:10:19.969: v4l2-input: Start capture from 
+17:10:19.969: v4l2-input: Unable to open device
+17:10:19.969: v4l2-input: Initialization failed
+17:10:19.980: User added source 'Dispositivo de Captura de Vídeo (V4L2)' (v4l2_input) to scene 'Main Scene'
+17:10:20.006: v4l2-input: /dev/video1 seems to not support video capture
+17:10:20.122: v4l2-input: Found device 'EasyCamera: EasyCamera' at /dev/video0
+17:10:20.125: v4l2-input: Found input 'Camera 1' (Index 0)
+17:10:20.125: v4l2-controls: setting default for Power Line Frequency to 1
+17:10:20.127: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:10:20.127: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:10:20.127: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:10:20.127: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:10:20.127: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:10:20.127: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:10:20.129: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+17:10:20.131: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:10:20.143: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+17:10:20.143: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+17:10:20.143: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+17:10:20.143: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+17:10:20.143: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+17:10:20.143: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+17:10:20.145: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+17:10:20.146: v4l2-input: Start capture from /dev/video0
+17:10:20.148: v4l2-input: Input: 0
+17:10:20.148: v4l2-input: Resolution: 640x360
+17:10:20.148: v4l2-input: Pixelformat: VYUY
+17:10:20.148: v4l2-input: Linesize: 1280 Bytes
+17:10:20.148: v4l2-input: Framerate: 30,00 fps
+17:10:20.156: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:10:20.565: v4l2-input: Stopped capture after 0 frames
+17:10:20.711: v4l2-input: Start capture from /dev/video0
+17:10:20.712: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+17:10:20.712: v4l2-input: Input: 0
+17:10:20.729: v4l2-input: Resolution: 640x360
+17:10:20.729: v4l2-input: Pixelformat: VYUY
+17:10:20.729: v4l2-input: Linesize: 1280 Bytes
+17:10:20.729: v4l2-input: Framerate: 30,00 fps
+17:10:53.984: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:10:53.984: 	title: Meet: Podcast com os Manos - Chromium
+17:10:53.984: 	class: chromium
+17:10:53.984: 	Bit depth: 24
+17:10:53.984: 	Found proper GLXFBConfig (in 24): yes
+17:10:53.984: 
+17:11:15.584: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:11:15.584: 	title: Meet: Podcast com os Manos - Chromium
+17:11:15.584: 	class: chromium
+17:11:15.584: 	Bit depth: 24
+17:11:15.584: 	Found proper GLXFBConfig (in 24): yes
+17:11:15.584: 
+17:12:37.612: pulse-input: Stopped recording from 'default'
+17:12:37.612: pulse-input: Got 135488 packets with 43356160 frames
+17:12:37.612: pulse-input: Server name: 'pulseaudio 13.0'
+17:12:37.612: pulse-input: Audio format: float32le, 32000 Hz, 2 channels
+17:12:37.612: pulse-input: Started recording from 'echoCancel_source'
+17:12:43.547: User added filter 'Limitador' (limiter_filter) to source 'Mic/Aux'
+17:12:52.845: ---------------------------------
+17:12:52.845: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+17:12:52.870: [x264 encoder: 'simple_h264_stream'] settings:
+17:12:52.870: 	rate_control: CBR
+17:12:52.870: 	bitrate:      800
+17:12:52.870: 	buffer size:  800
+17:12:52.870: 	crf:          0
+17:12:52.870: 	fps_num:      30
+17:12:52.870: 	fps_den:      1
+17:12:52.870: 	width:        1364
+17:12:52.870: 	height:       768
+17:12:52.870: 	keyint:       60
+17:12:52.870: 
+17:12:52.870: [x264 encoder: 'simple_h264_stream'] custom settings: scenecut=0
+17:12:52.923: libfdk_aac encoder created
+17:12:52.923: libfdk_aac bitrate: 160, channels: 2
+17:12:52.925: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://live-rio.twitch.tv/app...
+17:12:54.379: [rtmp stream: 'simple_stream'] Connection to rtmp://live-rio.twitch.tv/app successful
+17:12:54.439: ==== Streaming Start ===============================================
+17:13:06.465: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:13:06.465: 	title: Meet: Podcast com os Manos - Chromium
+17:13:06.465: 	class: chromium
+17:13:06.465: 	Bit depth: 24
+17:13:06.465: 	Found proper GLXFBConfig (in 24): yes
+17:13:06.465: 
+17:13:42.318: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:13:42.318: 	title: Meet: Podcast com os Manos - Chromium
+17:13:42.318: 	class: chromium
+17:13:42.318: 	Bit depth: 24
+17:13:42.318: 	Found proper GLXFBConfig (in 24): yes
+17:13:42.318: 
+17:15:07.185: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:15:07.185: 	title: Meet: Podcast com os Manos - Chromium
+17:15:07.185: 	class: chromium
+17:15:07.185: 	Bit depth: 24
+17:15:07.185: 	Found proper GLXFBConfig (in 24): yes
+17:15:07.185: 
+17:15:48.154: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:15:48.154: 	title: Meet: Podcast com os Manos - Chromium
+17:15:48.154: 	class: chromium
+17:15:48.154: 	Bit depth: 24
+17:15:48.154: 	Found proper GLXFBConfig (in 24): yes
+17:15:48.154: 
+17:16:04.956: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:16:04.956: 	title: Meet: Podcast com os Manos - Chromium
+17:16:04.956: 	class: chromium
+17:16:04.956: 	Bit depth: 24
+17:16:04.956: 	Found proper GLXFBConfig (in 24): yes
+17:16:04.956: 
+17:16:35.325: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:16:35.325: 	title: Meet: Podcast com os Manos - Chromium
+17:16:35.325: 	class: chromium
+17:16:35.325: 	Bit depth: 24
+17:16:35.325: 	Found proper GLXFBConfig (in 24): yes
+17:16:35.325: 
+17:20:34.656: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:20:34.656: 	title: Meet: Podcast com os Manos - Chromium
+17:20:34.656: 	class: chromium
+17:20:34.656: 	Bit depth: 24
+17:20:34.656: 	Found proper GLXFBConfig (in 24): yes
+17:20:34.656: 
+17:20:38.383: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:20:38.383: 	title: Meet: Podcast com os Manos - Chromium
+17:20:38.383: 	class: chromium
+17:20:38.383: 	Bit depth: 24
+17:20:38.383: 	Found proper GLXFBConfig (in 24): yes
+17:20:38.383: 
+17:20:39.584: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:20:39.584: 	title: Meet: Podcast com os Manos - Chromium
+17:20:39.584: 	class: chromium
+17:20:39.584: 	Bit depth: 24
+17:20:39.584: 	Found proper GLXFBConfig (in 24): yes
+17:20:39.584: 
+17:23:53.552: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:23:53.552: 	title: Meet: Podcast com os Manos - Chromium
+17:23:53.552: 	class: chromium
+17:23:53.552: 	Bit depth: 24
+17:23:53.552: 	Found proper GLXFBConfig (in 24): yes
+17:23:53.552: 
+17:24:00.091: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:24:00.091: 	title: Meet: Podcast com os Manos - Chromium
+17:24:00.091: 	class: chromium
+17:24:00.091: 	Bit depth: 24
+17:24:00.091: 	Found proper GLXFBConfig (in 24): yes
+17:24:00.091: 
+17:31:49.251: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:31:49.251: 	title: Meet: Podcast com os Manos - Chromium
+17:31:49.251: 	class: chromium
+17:31:49.251: 	Bit depth: 24
+17:31:49.251: 	Found proper GLXFBConfig (in 24): yes
+17:31:49.251: 
+17:38:03.266: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+17:38:03.266: 	title: Meet: Podcast com os Manos - Chromium
+17:38:03.266: 	class: chromium
+17:38:03.266: 	Bit depth: 24
+17:38:03.266: 	Found proper GLXFBConfig (in 24): yes
+17:38:03.266: 
+18:09:40.416: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:09:40.416: 	title: Meet: Podcast com os Manos - Chromium
+18:09:40.416: 	class: chromium
+18:09:40.416: 	Bit depth: 24
+18:09:40.416: 	Found proper GLXFBConfig (in 24): yes
+18:09:40.416: 
+18:09:55.983: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:09:55.983: 	title: Meet: Podcast com os Manos - Chromium
+18:09:55.983: 	class: chromium
+18:09:55.983: 	Bit depth: 24
+18:09:55.983: 	Found proper GLXFBConfig (in 24): yes
+18:09:55.983: 
+18:09:58.050: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:09:58.050: 	title: Meet: Podcast com os Manos - Chromium
+18:09:58.050: 	class: chromium
+18:09:58.050: 	Bit depth: 24
+18:09:58.050: 	Found proper GLXFBConfig (in 24): yes
+18:09:58.050: 
+18:10:07.589: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:10:07.589: 	title: Meet: Podcast com os Manos - Chromium
+18:10:07.589: 	class: chromium
+18:10:07.589: 	Bit depth: 24
+18:10:07.589: 	Found proper GLXFBConfig (in 24): yes
+18:10:07.589: 
+18:10:10.421: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:10:10.421: 	title: Meet: Podcast com os Manos - Chromium
+18:10:10.421: 	class: chromium
+18:10:10.421: 	Bit depth: 24
+18:10:10.421: 	Found proper GLXFBConfig (in 24): yes
+18:10:10.421: 
+18:10:15.284: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:10:15.284: 	title: Meet: Podcast com os Manos - Chromium
+18:10:15.284: 	class: chromium
+18:10:15.284: 	Bit depth: 24
+18:10:15.284: 	Found proper GLXFBConfig (in 24): yes
+18:10:15.284: 
+18:10:37.186: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:10:37.186: 	title: Meet: Podcast com os Manos - Chromium
+18:10:37.186: 	class: chromium
+18:10:37.186: 	Bit depth: 24
+18:10:37.186: 	Found proper GLXFBConfig (in 24): yes
+18:10:37.186: 
+18:10:43.920: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:10:43.920: 	title: Meet: Podcast com os Manos - Chromium
+18:10:43.920: 	class: chromium
+18:10:43.920: 	Bit depth: 24
+18:10:43.920: 	Found proper GLXFBConfig (in 24): yes
+18:10:43.920: 
+18:10:52.553: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:10:52.553: 	title: Meet: Podcast com os Manos - Chromium
+18:10:52.553: 	class: chromium
+18:10:52.553: 	Bit depth: 24
+18:10:52.553: 	Found proper GLXFBConfig (in 24): yes
+18:10:52.553: 
+18:10:54.353: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:10:54.353: 	title: Meet: Podcast com os Manos - Chromium
+18:10:54.353: 	class: chromium
+18:10:54.353: 	Bit depth: 24
+18:10:54.353: 	Found proper GLXFBConfig (in 24): yes
+18:10:54.353: 
+18:10:57.852: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:10:57.852: 	title: Meet: Podcast com os Manos - Chromium
+18:10:57.852: 	class: chromium
+18:10:57.852: 	Bit depth: 24
+18:10:57.852: 	Found proper GLXFBConfig (in 24): yes
+18:10:57.852: 
+18:11:04.726: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:11:04.726: 	title: Meet: Podcast com os Manos - Chromium
+18:11:04.726: 	class: chromium
+18:11:04.726: 	Bit depth: 24
+18:11:04.726: 	Found proper GLXFBConfig (in 24): yes
+18:11:04.726: 
+18:11:06.525: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:11:06.525: 	title: Meet: Podcast com os Manos - Chromium
+18:11:06.525: 	class: chromium
+18:11:06.525: 	Bit depth: 24
+18:11:06.525: 	Found proper GLXFBConfig (in 24): yes
+18:11:06.525: 
+18:11:13.450: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:11:13.450: 	title: Meet: Podcast com os Manos - Chromium
+18:11:13.450: 	class: chromium
+18:11:13.450: 	Bit depth: 24
+18:11:13.450: 	Found proper GLXFBConfig (in 24): yes
+18:11:13.450: 
+18:11:15.659: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:11:15.659: 	title: Meet: Podcast com os Manos - Chromium
+18:11:15.659: 	class: chromium
+18:11:15.659: 	Bit depth: 24
+18:11:15.659: 	Found proper GLXFBConfig (in 24): yes
+18:11:15.659: 
+18:11:18.726: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:11:18.726: 	title: Meet: Podcast com os Manos - Chromium
+18:11:18.726: 	class: chromium
+18:11:18.726: 	Bit depth: 24
+18:11:18.726: 	Found proper GLXFBConfig (in 24): yes
+18:11:18.726: 
+18:11:21.684: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:11:21.684: 	title: Meet: Podcast com os Manos - Chromium
+18:11:21.684: 	class: chromium
+18:11:21.684: 	Bit depth: 24
+18:11:21.684: 	Found proper GLXFBConfig (in 24): yes
+18:11:21.684: 
+18:11:50.651: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+18:11:50.651: 	title: Meet: Podcast com os Manos - Chromium
+18:11:50.651: 	class: chromium
+18:11:50.651: 	Bit depth: 24
+18:11:50.651: 	Found proper GLXFBConfig (in 24): yes
+18:11:50.651: 
+18:31:48.894: Last log entry repeated for 11 more lines
+18:31:48.894: [rtmp stream: 'simple_stream'] User stopped the stream
+18:31:48.895: Output 'simple_stream': stopping
+18:31:48.895: Output 'simple_stream': Total frames output: 141590 (142013 attempted)
+18:31:48.895: Output 'simple_stream': Total drawn frames: 142076 (142079 attempted)
+18:31:48.895: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 3 (0,0%)
+18:31:48.895: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 423 (0,3%)
+18:31:48.900: ==== Streaming Stop ================================================
+18:31:48.928: libfdk_aac encoder destroyed
+18:32:47.281: ---------------------------------
+18:32:47.281: video settings reset:
+18:32:47.281: 	base resolution:   1366x768
+18:32:47.281: 	output resolution: 544x306
+18:32:47.281: 	downscale filter:  Bicubic
+18:32:47.281: 	fps:               30/1
+18:32:47.281: 	format:            NV12
+18:32:47.281: 	YUV mode:          601/Partial
+18:32:47.281: NV12 texture support not available
+18:32:47.311: Settings changed (video)
+18:32:47.311: ------------------------------------------------
+18:33:05.122: User added scene 'Audio'
+18:33:05.123: User switched to scene 'Audio'
+18:33:10.775: ---------------------------------
+18:33:10.775: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+18:33:10.775: [x264 encoder: 'simple_h264_stream'] settings:
+18:33:10.775: 	rate_control: CBR
+18:33:10.775: 	bitrate:      800
+18:33:10.775: 	buffer size:  800
+18:33:10.775: 	crf:          0
+18:33:10.775: 	fps_num:      30
+18:33:10.775: 	fps_den:      1
+18:33:10.775: 	width:        544
+18:33:10.775: 	height:       306
+18:33:10.775: 	keyint:       60
+18:33:10.775: 
+18:33:10.775: [x264 encoder: 'simple_h264_stream'] custom settings: scenecut=0
+18:33:10.778: libfdk_aac encoder created
+18:33:10.778: libfdk_aac bitrate: 160, channels: 2
+18:33:10.783: ==== Recording Start ===============================================
+18:33:10.783: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/adame/2020-06-26 18-33-10.mkv'...
+18:33:45.313: User switched to scene 'Main Scene'
+18:33:49.513: User Removed source 'Dispositivo de Captura de Vídeo (V4L2)' (v4l2_input) from scene 'Main Scene'
+18:33:49.545: v4l2-input: Stopped capture after 148451 frames
+18:33:56.208: User Removed source 'Captura de Janela (Xcomposite)' (xcomposite_input) from scene 'Main Scene'
+19:30:19.728: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/adame/2020-06-26 18-33-10.mkv' stopped
+19:30:19.728: Output 'simple_file_output': stopping
+19:30:19.728: Output 'simple_file_output': Total frames output: 102848
+19:30:19.729: Output 'simple_file_output': Total drawn frames: 102868
+19:30:19.729: ==== Recording Stop ================================================
+19:30:19.749: libfdk_aac encoder destroyed
+20:32:55.691: ==== Shutting down ==================================================
+20:32:55.696: Switched to scene '(null)'
+20:32:55.698: pulse-input: Stopped recording from 'echoCancel_sink.monitor'
+20:32:55.698: pulse-input: Got 5245760 packets with 413490893 frames
+20:32:55.699: pulse-input: Stopped recording from 'echoCancel_source'
+20:32:55.699: pulse-input: Got 1201767 packets with 384577920 frames
+20:32:55.700: All scene data cleared
+20:32:55.700: ------------------------------------------------
+20:32:55.716: Failed to fetch parent window geometry!
+20:32:55.716: Failed to fetch parent window geometry!
+20:32:55.716: Failed to fetch parent window geometry!
+20:32:55.716: Failed to fetch parent window geometry!
+20:32:55.802: Freeing OBS context data
+20:32:55.856: [Scripting] Total detached callbacks: 0
+20:32:55.883: == Profiler Results =============================
+20:32:55.883: run_program_init: 12209,4 ms
+20:32:55.883:  ┣OBSApp::AppInit: 181,35 ms
+20:32:55.883:  ┃ ┗OBSApp::InitLocale: 111,566 ms
+20:32:55.883:  ┗OBSApp::OBSInit: 5264,5 ms
+20:32:55.883:    ┣obs_startup: 30,438 ms
+20:32:55.883:    ┗OBSBasic::OBSInit: 4556,55 ms
+20:32:55.883:      ┣OBSBasic::InitBasicConfig: 5,225 ms
+20:32:55.884:      ┣OBSBasic::ResetAudio: 0,388 ms
+20:32:55.884:      ┣OBSBasic::ResetVideo: 1198,24 ms
+20:32:55.884:      ┣OBSBasic::InitOBSCallbacks: 0,006 ms
+20:32:55.884:      ┣OBSBasic::InitHotkeys: 0,051 ms
+20:32:55.884:      ┣obs_load_all_modules: 2132,73 ms
+20:32:55.884:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 1,701 ms
+20:32:55.884:      ┃ ┣obs_init_module(frontend-tools.so): 157,45 ms
+20:32:55.884:      ┃ ┣obs_init_module(image-source.so): 0,019 ms
+20:32:55.884:      ┃ ┣obs_init_module(linux-alsa.so): 0,003 ms
+20:32:55.884:      ┃ ┣obs_init_module(linux-capture.so): 1,994 ms
+20:32:55.884:      ┃ ┣obs_init_module(linux-decklink.so): 0,538 ms
+20:32:55.884:      ┃ ┣obs_init_module(linux-jack.so): 0,005 ms
+20:32:55.884:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0,004 ms
+20:32:55.884:      ┃ ┣obs_init_module(linux-v4l2.so): 0,004 ms
+20:32:55.884:      ┃ ┣obs_init_module(obs-ffmpeg.so): 150,894 ms
+20:32:55.884:      ┃ ┃ ┗nvenc_check: 150,845 ms
+20:32:55.884:      ┃ ┣obs_init_module(obs-filters.so): 0,037 ms
+20:32:55.884:      ┃ ┣obs_init_module(obs-libfdk.so): 0,002 ms
+20:32:55.884:      ┃ ┣obs_init_module(obs-outputs.so): 0,005 ms
+20:32:55.884:      ┃ ┣obs_init_module(obs-transitions.so): 0,024 ms
+20:32:55.884:      ┃ ┣obs_init_module(obs-x264.so): 0,002 ms
+20:32:55.884:      ┃ ┣obs_init_module(rtmp-services.so): 28,893 ms
+20:32:55.884:      ┃ ┣obs_init_module(text-freetype2.so): 0,067 ms
+20:32:55.884:      ┃ ┗obs_init_module(vlc-video.so): 36,86 ms
+20:32:55.884:      ┣OBSBasic::ResetOutputs: 9,73 ms
+20:32:55.884:      ┣OBSBasic::CreateHotkeys: 0,148 ms
+20:32:55.884:      ┣OBSBasic::InitService: 17,774 ms
+20:32:55.884:      ┣OBSBasic::InitPrimitives: 0,709 ms
+20:32:55.884:      ┗OBSBasic::Load: 681,112 ms
+20:32:55.884: obs_hotkey_thread(25 ms): min=0,074 ms, median=0,36 ms, max=451,239 ms, 99th percentile=3,069 ms, 99,9983% below 25 ms
+20:32:55.884: audio_thread(Audio): min=0 ms, median=0,543 ms, max=105,944 ms, 99th percentile=2,8 ms
+20:32:55.884:  ┗receive_audio: min=0,001 ms, median=0,632 ms, max=22,975 ms, 99th percentile=2,613 ms, 0,624567 calls per parent call
+20:32:55.884:    ┣buffer_audio: min=0 ms, median=0,001 ms, max=2,05 ms, 99th percentile=0,003 ms
+20:32:55.884:    ┗do_encode: min=0,112 ms, median=0,628 ms, max=22,969 ms, 99th percentile=2,603 ms
+20:32:55.884:      ┗encode(simple_aac): min=0,109 ms, median=0,61 ms, max=15,593 ms, 99th percentile=2,495 ms
+20:32:55.884: obs_graphics_thread(33,3333 ms): min=0,041 ms, median=5,812 ms, max=569,054 ms, 99th percentile=14,993 ms, 99,9735% below 33,333 ms
+20:32:55.884:  ┣tick_sources: min=0,001 ms, median=0,506 ms, max=551,222 ms, 99th percentile=2,869 ms
+20:32:55.884:  ┣output_frame: min=0,019 ms, median=4,333 ms, max=138,178 ms, 99th percentile=9,455 ms
+20:32:55.884:  ┃ ┣gs_context(video->graphics): min=0,019 ms, median=4,059 ms, max=138,178 ms, 99th percentile=7,385 ms
+20:32:55.884:  ┃ ┃ ┣render_video: min=0,014 ms, median=4,01 ms, max=138,153 ms, 99th percentile=7,303 ms
+20:32:55.884:  ┃ ┃ ┃ ┣render_main_texture: min=0,012 ms, median=0,772 ms, max=125,718 ms, 99th percentile=2,117 ms
+20:32:55.884:  ┃ ┃ ┃ ┣render_output_texture: min=0,018 ms, median=0,029 ms, max=6,266 ms, 99th percentile=0,131 ms, 0,768093 calls per parent call
+20:32:55.884:  ┃ ┃ ┃ ┣render_convert_texture: min=0,025 ms, median=0,041 ms, max=129,372 ms, 99th percentile=0,178 ms, 0,768093 calls per parent call
+20:32:55.884:  ┃ ┃ ┃ ┗stage_output_texture: min=2,176 ms, median=3,247 ms, max=19,208 ms, 99th percentile=6,106 ms, 0,768093 calls per parent call
+20:32:55.884:  ┃ ┃ ┣gs_flush: min=0 ms, median=0,002 ms, max=5,109 ms, 99th percentile=0,385 ms
+20:32:55.884:  ┃ ┃ ┗download_frame: min=0 ms, median=0,008 ms, max=5,543 ms, 99th percentile=0,027 ms, 0,768093 calls per parent call
+20:32:55.884:  ┃ ┗output_video_data: min=0,182 ms, median=0,238 ms, max=39,584 ms, 99th percentile=4,356 ms, 0,768088 calls per parent call
+20:32:55.884:  ┗render_displays: min=0,003 ms, median=0,795 ms, max=81,454 ms, 99th percentile=7,004 ms
+20:32:55.884: video_thread(video): min=0,834 ms, median=1,537 ms, max=103,853 ms, 99th percentile=5,631 ms
+20:32:55.884:  ┗receive_video: min=0,832 ms, median=1,533 ms, max=103,851 ms, 99th percentile=5,597 ms
+20:32:55.884:    ┗do_encode: min=0,831 ms, median=1,532 ms, max=103,85 ms, 99th percentile=5,593 ms
+20:32:55.884:      ┗encode(simple_h264_stream): min=0,819 ms, median=1,501 ms, max=103,833 ms, 99th percentile=5,11 ms
+20:32:55.884: obs_graphics_thread(33,3333 ms): min=0,116 ms, median=2,383 ms, max=437,52 ms, 99th percentile=8,904 ms, 99,9963% below 33,333 ms
+20:32:55.884:  ┣tick_sources: min=0,004 ms, median=0,018 ms, max=4,251 ms, 99th percentile=0,053 ms
+20:32:55.884:  ┣output_frame: min=0,039 ms, median=0,192 ms, max=39,895 ms, 99th percentile=3,455 ms
+20:32:55.884:  ┃ ┣gs_context(video->graphics): min=0,039 ms, median=0,191 ms, max=39,895 ms, 99th percentile=2,322 ms
+20:32:55.884:  ┃ ┃ ┣render_video: min=0,03 ms, median=0,128 ms, max=39,872 ms, 99th percentile=2,223 ms
+20:32:55.884:  ┃ ┃ ┃ ┣render_main_texture: min=0,027 ms, median=0,062 ms, max=32,935 ms, 99th percentile=0,147 ms
+20:32:55.884:  ┃ ┃ ┃ ┣render_output_texture: min=0,035 ms, median=0,105 ms, max=38,47 ms, 99th percentile=0,381 ms, 0,475763 calls per parent call
+20:32:55.884:  ┃ ┃ ┃ ┣render_convert_texture: min=0,029 ms, median=0,065 ms, max=5,43 ms, 99th percentile=0,273 ms, 0,475763 calls per parent call
+20:32:55.884:  ┃ ┃ ┃ ┗stage_output_texture: min=0,404 ms, median=0,884 ms, max=8,235 ms, 99th percentile=2,181 ms, 0,475763 calls per parent call
+20:32:55.885:  ┃ ┃ ┣gs_flush: min=0 ms, median=0,002 ms, max=4,527 ms, 99th percentile=0,005 ms
+20:32:55.885:  ┃ ┃ ┗download_frame: min=0 ms, median=0,009 ms, max=2,478 ms, 99th percentile=0,028 ms, 0,475763 calls per parent call
+20:32:55.885:  ┃ ┗output_video_data: min=0,032 ms, median=0,052 ms, max=16,303 ms, 99th percentile=2,133 ms, 0,475758 calls per parent call
+20:32:55.885:  ┗render_displays: min=0,007 ms, median=1,764 ms, max=437,27 ms, 99th percentile=6,299 ms
+20:32:55.885: OBSBasic::ResetVideo: 36,908 ms
+20:32:55.885: video_thread(video): min=0,193 ms, median=0,367 ms, max=11,365 ms, 99th percentile=1,726 ms
+20:32:55.885:  ┗receive_video: min=0,192 ms, median=0,363 ms, max=11,338 ms, 99th percentile=1,684 ms
+20:32:55.885:    ┗do_encode: min=0,191 ms, median=0,361 ms, max=11,336 ms, 99th percentile=1,679 ms
+20:32:55.885:      ┗encode(simple_h264_stream): min=0,179 ms, median=0,337 ms, max=11,319 ms, 99th percentile=1,475 ms
+20:32:55.885: =================================================
+20:32:55.885: == Profiler Time Between Calls ==================
+20:32:55.885: obs_hotkey_thread(25 ms): min=25,12 ms, median=25,488 ms, max=477,12 ms, 51,0214% within ±2% of 25 ms (0% lower, 48,9786% higher)
+20:32:55.885: obs_graphics_thread(33,3333 ms): min=7,505 ms, median=33,333 ms, max=569,067 ms, 95,1691% within ±2% of 33,333 ms (2,41518% lower, 2,41572% higher)
+20:32:55.885: obs_graphics_thread(33,3333 ms): min=20,733 ms, median=33,333 ms, max=437,567 ms, 98,5066% within ±2% of 33,333 ms (0,748781% lower, 0,744619% higher)
+20:32:55.885: =================================================
+20:32:56.237: Number of memory leaks: 0

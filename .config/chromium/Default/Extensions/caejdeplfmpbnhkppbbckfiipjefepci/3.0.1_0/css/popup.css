@@ -1,0 +1,221 @@
+#FvUiF6tibKxynwDtY,
+#baBodyOptions {
+  margin: 0px;
+  padding: 0px;
+  width: 520px;
+  background: #f5f5f5;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  /* ===============================================
+		Blocos
+	=============================================== */
+  /* ===============================================
+		Lojas com cupons disponíveis
+	=============================================== */
+}
+#FvUiF6tibKxynwDtY iframe,
+#baBodyOptions iframe,
+#FvUiF6tibKxynwDtY #fakeiframe,
+#baBodyOptions #fakeiframe {
+  width: 520px;
+  height: 100%;
+}
+#FvUiF6tibKxynwDtY #fakeiframe,
+#baBodyOptions #fakeiframe {
+  padding: 0px 20px 10px;
+  box-sizing: border-box;
+  overflow-y: scroll;
+}
+#FvUiF6tibKxynwDtY #intro,
+#baBodyOptions #intro {
+  padding: 10px 15px;
+}
+#FvUiF6tibKxynwDtY #notloaded,
+#baBodyOptions #notloaded,
+#FvUiF6tibKxynwDtY #loading,
+#baBodyOptions #loading {
+  padding: 5px 30px;
+}
+#FvUiF6tibKxynwDtY #intro p,
+#baBodyOptions #intro p,
+#FvUiF6tibKxynwDtY #notloaded p,
+#baBodyOptions #notloaded p {
+  font-size: 14px;
+  padding: 2px 5px;
+  position: relative;
+}
+#FvUiF6tibKxynwDtY #intro .name,
+#baBodyOptions #intro .name {
+  font-weight: bold;
+}
+#FvUiF6tibKxynwDtY #intro hr,
+#baBodyOptions #intro hr {
+  height: 1px;
+  border: none;
+  border-top: 1px solid lightgrey;
+}
+#FvUiF6tibKxynwDtY #intro .btn,
+#baBodyOptions #intro .btn {
+  position: absolute;
+  right: 0px;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 6px 7px 7px;
+  top: -5px;
+  width: 84px;
+  color: white;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  cursor: pointer;
+}
+#FvUiF6tibKxynwDtY .close,
+#baBodyOptions .close {
+  position: absolute;
+  top: 10px;
+  right: 25px;
+}
+#FvUiF6tibKxynwDtY .block,
+#baBodyOptions .block {
+  width: 100%;
+  display: none;
+  position: relative;
+  box-sizing: border-box;
+}
+#FvUiF6tibKxynwDtY .block.active,
+#baBodyOptions .block.active {
+  display: block;
+}
+#FvUiF6tibKxynwDtY #options table,
+#baBodyOptions #options table {
+  width: 100%;
+  font-size: 14px;
+}
+#FvUiF6tibKxynwDtY #options .tdlabel,
+#baBodyOptions #options .tdlabel {
+  padding-left: 3px;
+}
+#FvUiF6tibKxynwDtY #options .tdinput,
+#baBodyOptions #options .tdinput {
+  width: 150px;
+  text-align: -webkit-right;
+}
+#FvUiF6tibKxynwDtY #lojascupons,
+#baBodyOptions #lojascupons {
+  /* ===============================================
+			Lojas com cupons disponíveis - FECHADA
+		=============================================== */
+  /* ===============================================
+			Lojas com cupons disponíveis - ABERTA
+		=============================================== */
+}
+#FvUiF6tibKxynwDtY #lojascupons input,
+#baBodyOptions #lojascupons input {
+  border-radius: 2px;
+  line-height: 29px;
+  height: 29px;
+  color: #1569b3;
+  padding: 0px 10px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  display: block;
+  position: relative;
+  top: -5px;
+  width: 230px;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+}
+#FvUiF6tibKxynwDtY #lojascupons tr,
+#baBodyOptions #lojascupons tr {
+  cursor: pointer;
+  height: 49px;
+  font-size: 12px;
+}
+#FvUiF6tibKxynwDtY #lojascupons td > *,
+#baBodyOptions #lojascupons td > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+#FvUiF6tibKxynwDtY #lojascupons .cupomlist,
+#baBodyOptions #lojascupons .cupomlist {
+  padding: 5px 8px;
+}
+#FvUiF6tibKxynwDtY #lojascupons .cupomlist a,
+#baBodyOptions #lojascupons .cupomlist a {
+  padding: 5px;
+  display: block;
+  text-decoration: none;
+  color: black;
+}
+#FvUiF6tibKxynwDtY #lojascupons .cupomlist a.template,
+#baBodyOptions #lojascupons .cupomlist a.template {
+  display: none;
+}
+#FvUiF6tibKxynwDtY #lojascupons .cupomlist img,
+#baBodyOptions #lojascupons .cupomlist img {
+  vertical-align: middle;
+  position: relative;
+  top: -2px;
+}
+#FvUiF6tibKxynwDtY #lojascupons .template,
+#baBodyOptions #lojascupons .template {
+  display: none;
+}
+#FvUiF6tibKxynwDtY #lojascupons .logo,
+#baBodyOptions #lojascupons .logo {
+  width: 102px;
+  height: 48px;
+}
+#FvUiF6tibKxynwDtY #lojascupons .handler,
+#baBodyOptions #lojascupons .handler {
+  width: 250px;
+  padding-left: 15px;
+}
+#FvUiF6tibKxynwDtY #lojascupons .caret,
+#baBodyOptions #lojascupons .caret {
+  width: 20px;
+  vertical-align: middle;
+}
+#FvUiF6tibKxynwDtY #lojascupons .show-without-cupons,
+#baBodyOptions #lojascupons .show-without-cupons {
+  display: block;
+}
+#FvUiF6tibKxynwDtY #lojascupons .hide-without-cupons,
+#baBodyOptions #lojascupons .hide-without-cupons {
+  display: none;
+}
+#FvUiF6tibKxynwDtY #lojascupons tr td,
+#baBodyOptions #lojascupons tr td {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+#FvUiF6tibKxynwDtY #lojascupons .caret.down,
+#baBodyOptions #lojascupons .caret.down {
+  display: inline-block;
+}
+#FvUiF6tibKxynwDtY #lojascupons .caret.up,
+#baBodyOptions #lojascupons .caret.up {
+  display: none;
+}
+#FvUiF6tibKxynwDtY #lojascupons .cupomlist,
+#baBodyOptions #lojascupons .cupomlist {
+  display: none;
+}
+#FvUiF6tibKxynwDtY #lojascupons tr.open td,
+#baBodyOptions #lojascupons tr.open td {
+  border: 1px solid #cacaca;
+}
+#FvUiF6tibKxynwDtY #lojascupons tr.open .caret.down,
+#baBodyOptions #lojascupons tr.open .caret.down {
+  display: none;
+}
+#FvUiF6tibKxynwDtY #lojascupons tr.open .caret.up,
+#baBodyOptions #lojascupons tr.open .caret.up {
+  display: inline-block;
+}
+#FvUiF6tibKxynwDtY #lojascupons tr.open .cupomlist,
+#baBodyOptions #lojascupons tr.open .cupomlist {
+  display: block;
+}
+#baBodyOptions {
+  width: 600px;
+  margin: 0px auto;
+  padding: 0px 10px;
+}
+/*# sourceMappingURL=popup.css.map */

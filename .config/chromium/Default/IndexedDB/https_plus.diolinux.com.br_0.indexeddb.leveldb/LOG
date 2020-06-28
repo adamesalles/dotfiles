@@ -1,0 +1,5 @@
+2020/06/27-23:37:59.093 4016 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_plus.diolinux.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/27-23:38:42.525 685 Level-0 table #5: started
+2020/06/27-23:38:42.560 685 Level-0 table #5: 57283 bytes OK
+2020/06/27-23:38:42.588 685 Delete type=0 #3
+2020/06/27-23:38:42.589 685 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

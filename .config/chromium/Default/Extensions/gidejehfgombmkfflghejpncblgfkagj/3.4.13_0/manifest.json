@@ -1,0 +1,35 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "assets/img/icons/main-icon.png"
+      }
+   },
+   "content_scripts": [ {
+      "exclude_matches": [ "*://*.cuponomia.com.br/*" ],
+      "js": [ "content-scripts/check-website.js", "content-scripts/inject-store-scrapers.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "content-scripts/cuponomia.js" ],
+      "matches": [ "*://*.cuponomia.com.br/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "O Cuponomia te avisa sempre que existir Cupons ou Cashback para a loja que estiver comprando. Economia em apenas um clique!",
+   "differential_fingerprint": "1.b1d5fd81f119cc97da4a6e1847c78f49941185ad4a3755fc87120e97086ad6ee",
+   "homepage_url": "https://www.cuponomia.com.br",
+   "icons": {
+      "128": "assets/img/icons/main-icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiGsLeTozFH3mR85fHAeaawp7PKCz9Wh134L9M025ckGVCqoNcW/qSfaNOFj5yJ+pVgalfQjbVtDHJMzcWb8jNniJEp2eY8w0Ry2ynmgtzUjdLYEKM8l8fQP26D/r0pMm/qzXXyrsaREnDMxSKlIirgX6hwRDf6rEfL61OEaRKLuZZbm2DbJxNP6j8zjt2f9yF1ygODY3HOPXpkJyfFulkuBNfrbHI5UbUiT+77WsN7sdj7+Vy4XkOibnYQUZsXh90bGpwmjytkQqt6oRRZMPYxCYLf0DAiwGW3iG0T+v5ciHS/Wy3jg4x+Ovb5nmIZFgekQYuK9ClIZjrDitQhXUBwIDAQAB",
+   "manifest_version": 2,
+   "name": "Cuponomia - Cupom e Cashback",
+   "permissions": [ "activeTab", "tabs", "storage", "cookies", "webRequest", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.4.13",
+   "web_accessible_resources": [ "*.json", "*.css", "*.html", "*.png", "*.svg", "*.js", "*.woff", "*.woff2" ]
+}

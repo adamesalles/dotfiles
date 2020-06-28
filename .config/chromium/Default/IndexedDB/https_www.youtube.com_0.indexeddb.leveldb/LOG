@@ -1,0 +1,8 @@
+2020/06/27-23:38:59.128 4016 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/27-23:38:59.128 4016 Recovering log #112
+2020/06/27-23:38:59.128 4016 Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000112.log 
+2020/06/28-01:29:38.958 685 Level-0 table #117: started
+2020/06/28-01:29:38.958 685 Level-0 table #117: 0 bytes OK
+2020/06/28-01:29:38.985 685 Delete type=0 #112
+2020/06/28-01:29:38.985 685 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/28-01:29:38.986 685 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

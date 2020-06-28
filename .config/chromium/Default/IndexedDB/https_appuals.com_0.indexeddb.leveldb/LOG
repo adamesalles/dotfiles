@@ -1,0 +1,5 @@
+2020/06/17-14:44:55.666 1841 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_appuals.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/17-14:46:13.879 3eee Level-0 table #5: started
+2020/06/17-14:46:13.934 3eee Level-0 table #5: 6149 bytes OK
+2020/06/17-14:46:14.025 3eee Delete type=0 #3
+2020/06/17-14:46:14.025 3eee Manual compaction at level-0 from (begin) .. (end); will stop at (end)

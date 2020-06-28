@@ -1,0 +1,192 @@
+["INFO" - 23:12:04] Extension Name: esbenp.prettier-vscode.
+["INFO" - 23:12:04] Extension Version: 5.1.0.
+["INFO" - 23:12:04] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 23:12:04] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 23:14:55] Formatting /home/adame/Documentos/Git/meublog/README.md
+["INFO" - 23:14:55] Using ignore file (if present) at /home/adame/Documentos/Git/meublog/.prettierignore
+["INFO" - 23:14:55] Using bundled version of prettier.
+["INFO" - 23:14:55] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 23:14:55] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 23:14:55] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/Git/meublog/README.md",
+  "parser": "markdown"
+}
+["INFO" - 23:14:55] Formatting completed in 127.268264ms.
+["INFO" - 23:15:16] Formatting /home/adame/Documentos/Git/meublog/README.md
+["INFO" - 23:15:16] Using ignore file (if present) at /home/adame/Documentos/Git/meublog/.prettierignore
+["INFO" - 23:15:16] Using bundled version of prettier.
+["INFO" - 23:15:16] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 23:15:16] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 23:15:16] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/Git/meublog/README.md",
+  "parser": "markdown"
+}
+["INFO" - 23:15:16] Formatting completed in 38.279736ms.
+["INFO" - 23:19:52] Formatting /home/adame/Documentos/Git/meublog/content/projects.md
+["INFO" - 23:19:52] Using ignore file (if present) at /home/adame/Documentos/Git/meublog/.prettierignore
+["INFO" - 23:19:52] Using bundled version of prettier.
+["INFO" - 23:19:52] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 23:19:52] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 23:19:52] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/Git/meublog/content/projects.md",
+  "parser": "markdown"
+}
+["INFO" - 23:19:52] Formatting completed in 96.772243ms.
+["INFO" - 23:20:03] Formatting /home/adame/Documentos/Git/meublog/content/projects.md
+["INFO" - 23:20:03] Using ignore file (if present) at /home/adame/Documentos/Git/meublog/.prettierignore
+["INFO" - 23:20:03] Using bundled version of prettier.
+["INFO" - 23:20:03] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 23:20:03] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 23:20:03] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/Git/meublog/content/projects.md",
+  "parser": "markdown"
+}
+["INFO" - 23:20:03] Formatting completed in 63.849563ms.
+["INFO" - 23:20:18] Formatting /home/adame/Documentos/Git/meublog/content/projects.md
+["INFO" - 23:20:18] Using ignore file (if present) at /home/adame/Documentos/Git/meublog/.prettierignore
+["INFO" - 23:20:18] Using bundled version of prettier.
+["INFO" - 23:20:18] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 23:20:18] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 23:20:18] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/Git/meublog/content/projects.md",
+  "parser": "markdown"
+}
+["INFO" - 23:20:18] Formatting completed in 57.17385ms.

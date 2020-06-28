@@ -1,0 +1,491 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Open Sans Light Italic'), local('OpenSans-LightItalic'), url(https://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKWyV9hrIqY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v17/mem6YaGs126MiZpBA-UFUK0Zdcg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(https://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKXGUdhrIqY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKWiUNhrIqY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold Italic'), local('OpenSans-ExtraBoldItalic'), url(https://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKW-U9hrIqY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN8rsOUuhs.ttf) format('truetype');
+}
+#compAgressiva {
+  top: 50px;
+  right: 10px;
+  width: 426px !important;
+  background: #f0f0f0 !important;
+  background-color: transparent !important;
+  font-family: 'Open Sans', sans-serif !important;
+  max-height: 496px !important;
+  position: fixed !important;
+  z-index: 32767 !important;
+}
+#compAgressiva * {
+  font-family: 'Open Sans', sans-serif !important;
+  letter-spacing: 0px !important;
+}
+#compAgressiva #popupAgressiva {
+  width: 426px !important;
+  box-shadow: rgba(0, 0, 0, 0.15) 3px 3px 4px !important;
+  border-radius: 10px !important;
+}
+#compAgressiva #popupAgressiva h1 {
+  width: 100% !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  padding: 10px 10px !important;
+  color: #fff !important;
+  line-height: 34px !important;
+  border-radius: 10px 10px 0 0 !important;
+  position: relative !important;
+  height: 54px !important;
+}
+#compAgressiva #popupAgressiva h1 a {
+  float: left !important;
+  border-radius: 5px !important;
+}
+#compAgressiva #popupAgressiva h1 a img {
+  vertical-align: top !important;
+  width: 35px !important;
+}
+#compAgressiva #popupAgressiva h1 a span {
+  position: absolute !important;
+  z-index: 100 !important;
+  width: 22px !important;
+  height: 22px !important;
+  background: red !important;
+  display: block !important;
+  border-radius: 20px !important;
+  right: 3px !important;
+  bottom: 3px !important;
+  font-size: 10px !important;
+  color: #fff !important;
+  overflow: hidden !important;
+  text-align: center !important;
+  line-height: 22px !important;
+  font-weight: bold !important;
+  display: none !important;
+}
+#compAgressiva #popupAgressiva h1 > span {
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+  margin-left: 10px !important;
+}
+#compAgressiva #popupAgressiva h1 div {
+  position: absolute !important;
+  right: 7px !important;
+  top: 5px !important;
+  font-size: 1.3em !important;
+}
+#compAgressiva #popupAgressiva h1 div a {
+  float: right !important;
+  padding: 5px;
+}
+#compAgressiva #popupAgressiva h1 div a img {
+  width: 34px;
+  opacity: 0.3;
+  filter: brightness(0%);
+  vertical-align: top;
+}
+#compAgressiva #popupAgressiva h1 div a img:hover {
+  filter: brightness(100%);
+  opacity: 1;
+}
+#compAgressiva #popupAgressiva h1 div a img.fa-minus {
+  height: 41px;
+}
+#compAgressiva #popupAgressiva .hrFull {
+  display: block !important;
+  float: left !important;
+  position: relative !important;
+  left: -15px !important;
+  width: 100% !important;
+  border: solid 1px #F7F7F7 !important;
+  margin: 10px 0 !important;
+  border: solid 1px #003c6a !important;
+  width: 426px !important;
+  margin-left: 0 !important;
+  left: 0px !important;
+  margin: 0 !important;
+}
+#compAgressiva #popupAgressiva .compscroll {
+  border: 1px solid #005698 !important;
+  border-top: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  background-color: #fff !important;
+  opacity: 1 !important;
+  text-align: left !important;
+  visibility: visible !important;
+  position: static !important;
+  display: block !important;
+  width: 426px !important;
+  max-height: 400px !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  background: #fff !important;
+  margin-top: -20px !important;
+  top: -5px !important;
+}
+#compAgressiva #popupAgressiva .compscroll::-webkit-scrollbar {
+  width: 8px !important;
+  height: 8px !important;
+}
+#compAgressiva #popupAgressiva .compscroll::-webkit-scrollbar-track {
+  background: #F8F8F8 !important;
+  border-radius: 0 0 7px 0 !important;
+  overflow: hidden !important;
+}
+#compAgressiva #popupAgressiva .compscroll::-webkit-scrollbar-thumb {
+  background: #005698 !important;
+  border-radius: 0 !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal.first table {
+  border-top: none !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal.template {
+  display: none;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table {
+  height: 127px;
+  background-image: none !important;
+  padding: 10px 0 10px 10px !important;
+  border-top: 1px solid #eee !important;
+  background: white !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table:hover {
+  background: #F8F8F8 !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr:hover {
+  _background-color: #fafafa !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td {
+  border: none !important;
+  font-size: 10px !important;
+  vertical-align: top !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td a {
+  color: #333 !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td a:hover {
+  text-decoration: none !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tdimagem {
+  width: 110px !important;
+  padding: 0px;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tdimagem div {
+  display: block !important;
+  border: 1px solid #EDEDED !important;
+  border-radius: 5px !important;
+  margin-right: 10px !important;
+  background-color: #ffffff !important;
+  width: 100px !important;
+  height: 100px !important;
+  background-position: center !important;
+  background-size: 85% !important;
+  background-repeat: no-repeat !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao {
+  vertical-align: middle !important;
+  padding: 0px 7px 0px 0px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao p {
+  width: 100% !important;
+  color: black !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao .atualizadoha {
+  font-size: 9px !important;
+  color: #A2A2A2 !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao a.maisprodutos {
+  display: none;
+  color: #F7A51E !important;
+  font-size: 11px !important;
+  border-radius: 5px !important;
+  padding: 1px 3px 2px !important;
+  position: relative !important;
+  left: -2px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao a.maisprodutos span {
+  color: inherit !important;
+  font-size: inherit !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao a.maisprodutos:hover {
+  background: #FBBA00 !important;
+  color: #fff !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao a.maisprodutos:hover .fa-svg {
+  filter: none;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao a.maisprodutos .fa-svg {
+  vertical-align: sub;
+  display: none;
+  width: 15px;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.tddescricao a.maisprodutos .fa-svg.svg-visible {
+  display: inline;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.lojadata {
+  width: 100px !important;
+  padding: 0px !important;
+  overflow: visible !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.lojadata .a-marca {
+  width: 100px !important;
+  height: 47px !important;
+  display: block !important;
+  margin-bottom: 3px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.lojadata .a-marca img {
+  width: 100px !important;
+  height: 47px !important;
+  border-radius: 5px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table tr td.lojadata p {
+  line-height: 10px !important;
+  text-align: center !important;
+  background-color: #eee !important;
+  padding: 3px !important;
+  border: 1px solid #ddd !important;
+  color: #777 !important;
+  box-shadow: 0px 1px 0px #fff !important;
+  font-style: italic !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table td {
+  color: #555 !important;
+  position: relative !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table td p {
+  font-size: 11px !important;
+  line-height: 15px !important;
+  max-height: 60px !important;
+  overflow: hidden !important;
+  margin-bottom: 5px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table td .valores {
+  line-height: 26px !important;
+  margin-bottom: 0px !important;
+  text-align: center !important;
+  float: left !important;
+  padding: 0px 10px 0px 0px !important;
+  font-weight: 600 !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table td .valores a {
+  width: 100px !important;
+  height: 31px !important;
+  line-height: 31px !important;
+  border-radius: 5px !important;
+  float: left !important;
+  color: #fff !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table td .valores a .preco2 {
+  font-weight: bold !important;
+  color: #fff !important;
+  font-size: 16px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table td .parcelamento {
+  margin: 5px 0px 0px !important;
+  border: 0px !important;
+  padding: 0px !important;
+  font-size: 11px !important;
+  line-height: 14px !important;
+  letter-spacing: 0 !important;
+  width: 100px !important;
+  min-height: 14px !important;
+  height: 14px !important;
+  white-space: nowrap !important;
+  text-align: center !important;
+  float: left !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table td .parcelamento strong {
+  font-weight: normal !important;
+  line-height: 14px !important;
+  letter-spacing: -0.7px !important;
+  font-style: italic !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal table td .parcelamento strong span {
+  font-weight: bold !important;
+  letter-spacing: 0 !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula {
+  padding-left: 2px !important;
+  border-left: solid 8px #F7A51E !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula {
+  height: 77px;
+  padding: 0px 0px 0px 10px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula .tdimagem {
+  width: 60px !important;
+  padding-top: 14px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula .tdimagem div {
+  width: 50px !important;
+  height: 50px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula .tddescricao {
+  padding: 5px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula .tddescricao p.descricao {
+  height: 44px;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula .tddescricao .atualizadoha {
+  margin: 0px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula .lojadata {
+  padding-top: 15px !important;
+}
+#compAgressiva #popupAgressiva .compscroll #produtos-wrapper .produto-principal .tableint .celula .lojadata .a-marca {
+  display: none !important;
+}
+.baCompPopupLinkFooter {
+  text-align: center !important;
+  background: #fff !important;
+  height: 40px !important;
+  border-radius: 10px !important;
+  padding: 8px !important;
+  font-size: 12px !important;
+  border-radius: 0 0 10px 10px !important;
+}
+.baCompPopupLinkFooter #sendCompError {
+  width: 280px !important;
+  color: red !important;
+  display: inline-block !important;
+  text-align: left !important;
+}
+.baCompPopupLinkFooter #sendCompError.done {
+  cursor: default !important;
+  text-decoration: none !important;
+}
+.baCompPopupLinkFooter #sendCompError.done span {
+  color: #4caf50 !important;
+}
+.baCompPopupLinkFooter #sendCompError.done .fa-svg {
+  background-color: #4caf50 !important;
+}
+.baCompPopupLinkFooter #sendCompError span {
+  font-size: 12px;
+  color: red !important;
+}
+.baCompPopupLinkFooter #sendCompError .fa-svg {
+  width: 15px !important;
+  padding: 4px !important;
+  margin-right: 4px !important;
+  border-radius: 4px !important;
+  background-color: red !important;
+  vertical-align: middle !important;
+  box-sizing: content-box !important;
+}
+#compAgressiva .svg-orange {
+  filter: sepia() saturate(10000%) hue-rotate(305deg);
+}
+#compAgressiva .svg-red {
+  filter: sepia() saturate(10000%) hue-rotate(305deg);
+}
+.minimized #compAgressiva {
+  width: 56px !important;
+}
+.minimized #compAgressiva #popupAgressiva {
+  width: 56px !important;
+  overflow: hidden !important;
+}
+.minimized #compAgressiva #popupAgressiva > * {
+  display: none !important;
+}
+.minimized #compAgressiva #popupAgressiva > h1 {
+  display: block !important;
+}
+.minimized #compAgressiva #popupAgressiva > h1 a span {
+  display: block !important;
+}
+.minimized #compAgressiva #popupAgressiva > h1 span,
+.minimized #compAgressiva #popupAgressiva > h1 div {
+  display: none !important;
+}
+#compAgressiva a {
+  transition-property: color, border, background, opacity !important;
+  transition-duration: 0.1s !important;
+  transition-timing-function: ease-in !important;
+  text-decoration: none !important;
+}
+#compAgressiva a:link {
+  color: #fff !important;
+}
+#compAgressiva a:visited {
+  color: #fff !important;
+}
+#compAgressiva a:active {
+  color: #fff !important;
+}
+#compAgressiva a:hover {
+  color: #fff !important;
+  text-decoration: underline !important;
+}
+#compAgressiva table {
+  border-collapse: unset !important;
+  transition-property: color, border, background, opacity !important;
+  transition-duration: 0.1s !important;
+  transition-timing-function: ease-in !important;
+}
+#compAgressiva div {
+  transition-property: color, border, background, opacity !important;
+  transition-duration: 0.1s !important;
+  transition-timing-function: ease-in !important;
+}
+#compAgressiva * {
+  margin: 0px !important;
+  -webkit-box-sizing: border-box !important;
+  -moz-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+}

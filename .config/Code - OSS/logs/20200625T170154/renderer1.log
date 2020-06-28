@@ -1,0 +1,39 @@
+[2020-06-25 17:02:15.726] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 63% of 6083.127ms, saved PROFILE here: '/tmp/exthost-8780f9.cpuprofile' [{"id":"gc","total":29347,"percentage":0},{"id":"ritwickdey.LiveServer","total":3847894,"percentage":63},{"id":"self","total":510049,"percentage":8},{"id":"Shan.code-settings-sync","total":62275,"percentage":1},{"id":"vscode-icons-team.vscode-icons","total":13531,"percentage":0},{"id":"Zignd.html-css-class-completion","total":1619775,"percentage":27}]
+[2020-06-25 17:02:18.718] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error
+    at /home/adame/.vscode-oss/extensions/kiteco.kite-0.117.0/node_modules/kite-api/node_modules/kite-connector/lib/support/linux.js:113:18
+    at suppressedCallback (fs.js:209:5)
+    at FSReqCallback.oncomplete (fs.js:153:23)
+[2020-06-25 17:02:26.365] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error
+    at /home/adame/.vscode-oss/extensions/kiteco.kite-0.119.0/node_modules/kite-api/node_modules/kite-connector/lib/support/linux.js:113:18
+    at suppressedCallback (fs.js:209:5)
+    at FSReqCallback.oncomplete (fs.js:153:23)
+[2020-06-25 17:02:32.255] [renderer1] [error] The "path" argument must be of type string. Received type object: TypeError [ERR_INVALID_ARG_TYPE] [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type object
+    at validateString (internal/validators.js:112:11)
+    at Object.extname (path.js:1231:5)
+    at showNotification (/home/adame/.vscode-oss/extensions/kiteco.kite-0.119.0/src/notifications.js:36:18)
+    at /home/adame/.vscode-oss/extensions/kiteco.kite-0.119.0/src/kite.js:157:11
+    at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:754:698
+    at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+    at e.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:651:159)
+    at e._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:757)
+    at e._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:449)
+    at e._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:120)
+    at e._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:785:970)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:784:213
+    at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+    at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:957:179
+    at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+    at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:615)
+    at t.PersistentProtocol._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:17)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:234:155
+    at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+    at p.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:230:129)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:229:483
+    at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:238:565)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

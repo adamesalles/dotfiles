@@ -1,0 +1,5 @@
+2020/06/20-19:38:54.571 24bf Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_www.ifood.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/20-19:41:18.012 1074 Level-0 table #5: started
+2020/06/20-19:41:18.049 1074 Level-0 table #5: 87761 bytes OK
+2020/06/20-19:41:18.080 1074 Delete type=0 #3
+2020/06/20-19:41:18.081 1074 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

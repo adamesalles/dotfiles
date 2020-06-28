@@ -1,0 +1,15 @@
+2020/06/24-21:00:18.667 9a10 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/24-21:00:18.667 9a10 Recovering log #99
+2020/06/24-21:00:18.667 9a10 Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/000099.log 
+2020/06/24-21:01:46.571 8083 Level-0 table #104: started
+2020/06/24-21:01:46.605 8083 Level-0 table #104: 599 bytes OK
+2020/06/24-21:01:46.634 8083 Delete type=0 #99
+2020/06/24-21:01:46.635 8083 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/24-21:01:46.637 8083 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 853 : 1
+2020/06/24-21:01:46.637 8083 Compacting 1@1 + 1@2 files
+2020/06/24-21:01:46.672 8083 Generated table #105@1: 68 keys, 1371 bytes
+2020/06/24-21:01:46.672 8083 Compacted 1@1 + 1@2 files => 1371 bytes
+2020/06/24-21:01:46.710 8083 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/24-21:01:46.711 8083 Delete type=2 #101
+2020/06/24-21:01:46.711 8083 Delete type=2 #104
+2020/06/24-21:01:46.711 8083 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 853 : 1 .. (end); will stop at (end)

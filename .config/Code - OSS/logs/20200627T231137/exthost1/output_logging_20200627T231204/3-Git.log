@@ -1,0 +1,167 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/adame/Documentos/Git/meublog
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse production
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/adame/Documentos/Git/meublog/README.md
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse production
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse production
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git show :README.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/README.md
+> git cat-file -s f30a067cc39dc4bee3dac91cac8906f6db2671a2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse production
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git show :content/projects.md
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/content/projects.md
+> git cat-file -s 161fb65ee3c6cfd0e68e965c5ceea9731f918a32
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse production
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse production
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse production
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse production
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/adame/Documentos/Git/meublog/content/projects.md
+> git rev-parse production
+> git cat-file -s cc4ad361c23328daeeb98d80198ed2b45db4634a
+> git rev-parse --symbolic-full-name production@{u}
+> git rev-list --left-right production...refs/remotes/origin/production
+> git show :content/projects.md
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel

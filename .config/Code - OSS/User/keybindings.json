@@ -1,0 +1,13 @@
+// Empty
+[
+    {
+        "key": "ctrl+abnt_c1",
+        "command": "editor.action.addCommentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+k ctrl+c",
+        "command": "-editor.action.addCommentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]

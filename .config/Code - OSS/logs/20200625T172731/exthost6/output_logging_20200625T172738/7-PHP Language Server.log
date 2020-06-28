@@ -1,0 +1,10 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 17:27:39] 1 files total
+[Info  - 17:27:39] Indexing project for definitions and static references
+Parsing file:///home/adame/Downloads/Bootstrap%20HTML5%20Responsive%20Templates/flat_theme/sendemail.php
+[Info  - 17:27:39] Indexing project for dynamic references
+Parsing file:///home/adame/Downloads/Bootstrap%20HTML5%20Responsive%20Templates/flat_theme/sendemail.php
+[Info  - 17:27:39] 0 Packages
+[Info  - 17:27:39] All 1 PHP files parsed in 0 seconds. 148 MiB allocated.

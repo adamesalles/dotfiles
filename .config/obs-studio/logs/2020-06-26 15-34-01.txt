@@ -1,0 +1,349 @@
+15:34:01.494: CPU Name: Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz
+15:34:01.494: CPU Speed: 500.031MHz
+15:34:01.495: Physical Cores: 2, Logical Cores: 4
+15:34:01.495: Physical Memory: 7869MB Total, 6401MB Free
+15:34:01.495: Kernel Version: Linux 5.6.16-1-MANJARO
+15:34:01.495: Distribution: "Manjaro Linux" Unknown
+15:34:01.497: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.8
+15:34:01.519: Portable mode: false
+15:34:02.085: OBS 25.0.8-1 (linux)
+15:34:02.085: ---------------------------------
+15:34:02.091: ---------------------------------
+15:34:02.091: audio settings reset:
+15:34:02.091: 	samples per sec: 44100
+15:34:02.091: 	speakers:        2
+15:34:02.145: ---------------------------------
+15:34:02.145: Initializing OpenGL...
+15:34:02.263: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 520 (SKL GT2)
+15:34:02.263: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.0.7, shading language 4.60
+15:34:02.590: ---------------------------------
+15:34:02.591: video settings reset:
+15:34:02.591: 	base resolution:   1366x768
+15:34:02.591: 	output resolution: 1364x768
+15:34:02.591: 	downscale filter:  Bicubic
+15:34:02.591: 	fps:               30/1
+15:34:02.591: 	format:            NV12
+15:34:02.591: 	YUV mode:          601/Partial
+15:34:02.591: NV12 texture support not available
+15:34:02.603: Audio monitoring device:
+15:34:02.603: 	name: Padrão
+15:34:02.603: 	id: default
+15:34:02.604: ---------------------------------
+15:34:02.655: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+15:34:03.399: Failed to load 'pt-BR' text for module: 'libobs-linuxbrowser.so'
+15:34:03.477: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+15:34:03.477: No blackmagic support
+15:34:03.941: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: não é possível abrir arquivo compartilhado: Arquivo ou diretório inexistente
+15:34:03.941: 
+15:34:03.942: FFMPEG VAAPI supported
+15:34:04.265: VLC found, VLC video source enabled
+15:34:04.296: Failed to load 'pt-BR' text for module: 'libobs-linuxbrowser.so'
+15:34:04.296: ---------------------------------
+15:34:04.296:   Loaded Modules:
+15:34:04.296:     libobs-linuxbrowser.so
+15:34:04.296:     vlc-video.so
+15:34:04.297:     text-freetype2.so
+15:34:04.297:     rtmp-services.so
+15:34:04.297:     obs-x264.so
+15:34:04.297:     obs-transitions.so
+15:34:04.297:     obs-outputs.so
+15:34:04.297:     obs-libfdk.so
+15:34:04.297:     obs-filters.so
+15:34:04.297:     obs-ffmpeg.so
+15:34:04.297:     linux-v4l2.so
+15:34:04.297:     linux-pulseaudio.so
+15:34:04.297:     linux-jack.so
+15:34:04.297:     linux-decklink.so
+15:34:04.297:     linux-capture.so
+15:34:04.297:     linux-alsa.so
+15:34:04.297:     libobs-linuxbrowser.so
+15:34:04.297:     image-source.so
+15:34:04.297:     frontend-tools.so
+15:34:04.297:     decklink-ouput-ui.so
+15:34:04.297: ---------------------------------
+15:34:04.297: ==== Startup complete ===============================================
+15:34:04.346: All scene data cleared
+15:34:04.346: ------------------------------------------------
+15:34:04.370: pulse-input: Server name: 'pulseaudio 13.0'
+15:34:04.371: pulse-input: Audio format: float32le, 32000 Hz, 2 channels
+15:34:04.371: pulse-input: Started recording from 'echoCancel_sink.monitor'
+15:34:04.371: [Loaded global audio device]: 'Desktop Áudio'
+15:34:04.373: pulse-input: Server name: 'pulseaudio 13.0'
+15:34:04.374: pulse-input: Audio format: float32le, 32000 Hz, 2 channels
+15:34:04.374: pulse-input: Started recording from 'echoCancel_source'
+15:34:04.374: [Loaded global audio device]: 'Mic/Aux'
+15:34:04.447: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+15:34:04.449: Switched to scene 'Cena'
+15:34:04.449: ------------------------------------------------
+15:34:04.449: Loaded scenes:
+15:34:04.449: - scene 'Cena':
+15:34:04.616:     - source: 'Captura de Janela (Xcomposite)' (xcomposite_input)
+15:34:04.616:     - source: 'Linux Browser' (linuxbrowser-source)
+15:34:04.616: ------------------------------------------------
+15:34:04.942: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mic/Aux)
+15:34:04.942: 
+15:34:15.231: User Removed source 'Linux Browser' (linuxbrowser-source) from scene 'Cena'
+15:34:19.404: User added source 'Linux Browser' (linuxbrowser-source) to scene 'Cena'
+15:34:35.795: User added source 'Linux Browser 2' (linuxbrowser-source) to scene 'Cena'
+15:34:54.138: User Removed source 'Linux Browser' (linuxbrowser-source) from scene 'Cena'
+15:34:57.547: User Removed source 'Linux Browser 2' (linuxbrowser-source) from scene 'Cena'
+15:34:59.846: User Removed source 'Captura de Janela (Xcomposite)' (xcomposite_input) from scene 'Cena'
+15:35:08.698: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+15:35:08.705: User added source 'Captura de Janela (Xcomposite)' (xcomposite_input) to scene 'Cena'
+15:35:08.728: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+15:35:21.628: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+15:35:37.828: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:35:37.828: 	title: Página inicial - Chromium
+15:35:37.828: 	class: chromium
+15:35:37.828: 	Bit depth: 24
+15:35:37.828: 	Found proper GLXFBConfig (in 24): yes
+15:35:37.828: 
+15:37:44.527: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:37:44.527: 	title: Configurações - Chromium
+15:37:44.527: 	class: chromium
+15:37:44.527: 	Bit depth: 24
+15:37:44.527: 	Found proper GLXFBConfig (in 24): yes
+15:37:44.527: 
+15:37:45.595: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:37:45.595: 	title: Configurações - Chromium
+15:37:45.595: 	class: chromium
+15:37:45.595: 	Bit depth: 24
+15:37:45.595: 	Found proper GLXFBConfig (in 24): yes
+15:37:45.595: 
+15:37:46.861: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:37:46.861: 	title: Configurações - Chromium
+15:37:46.861: 	class: chromium
+15:37:46.861: 	Bit depth: 24
+15:37:46.861: 	Found proper GLXFBConfig (in 24): yes
+15:37:46.861: 
+15:37:56.759: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:37:56.759: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:37:56.759: 	class: chromium
+15:37:56.759: 	Bit depth: 24
+15:37:56.759: 	Found proper GLXFBConfig (in 24): yes
+15:37:56.759: 
+15:37:56.779: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:37:56.779: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:37:56.779: 	class: chromium
+15:37:56.779: 	Bit depth: 24
+15:37:56.779: 	Found proper GLXFBConfig (in 24): yes
+15:37:56.779: 
+15:38:00.482: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:38:00.482: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:38:00.482: 	class: chromium
+15:38:00.482: 	Bit depth: 24
+15:38:00.482: 	Found proper GLXFBConfig (in 24): yes
+15:38:00.482: 
+15:38:08.577: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:38:08.577: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:38:08.577: 	class: chromium
+15:38:08.577: 	Bit depth: 24
+15:38:08.577: 	Found proper GLXFBConfig (in 24): yes
+15:38:08.577: 
+15:38:10.418: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:38:10.418: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:38:10.418: 	class: chromium
+15:38:10.418: 	Bit depth: 24
+15:38:10.418: 	Found proper GLXFBConfig (in 24): yes
+15:38:10.418: 
+15:38:11.225: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:38:11.225: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:38:11.225: 	class: chromium
+15:38:11.225: 	Bit depth: 24
+15:38:11.225: 	Found proper GLXFBConfig (in 24): yes
+15:38:11.225: 
+15:38:27.408: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:38:27.408: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:38:27.408: 	class: chromium
+15:38:27.408: 	Bit depth: 24
+15:38:27.408: 	Found proper GLXFBConfig (in 24): yes
+15:38:27.408: 
+15:38:28.357: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:38:28.357: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:38:28.357: 	class: chromium
+15:38:28.357: 	Bit depth: 24
+15:38:28.357: 	Found proper GLXFBConfig (in 24): yes
+15:38:28.357: 
+15:38:35.988: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:38:35.988: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:38:35.988: 	class: chromium
+15:38:35.988: 	Bit depth: 24
+15:38:35.988: 	Found proper GLXFBConfig (in 24): yes
+15:38:35.988: 
+15:38:38.741: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:38:38.741: 	title: (20) Resolver ERRO de TELA PRETA na CAPTURA DE JANELA no OBS Studio no Chrome - YouTube - Chromium
+15:38:38.741: 	class: chromium
+15:38:38.741: 	Bit depth: 24
+15:38:38.741: 	Found proper GLXFBConfig (in 24): yes
+15:38:38.741: 
+15:38:58.751: User Removed source 'Captura de Janela (Xcomposite)' (xcomposite_input) from scene 'Cena'
+15:39:02.819: User added source 'Captura de Janela (Xcomposite)' (xcomposite_input) to scene 'Cena'
+15:39:02.861: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:02.861: 	title: OBS 25.0.8-1 (linux) - Perfil: Sem nome - Cenas: Sem nome
+15:39:02.861: 	class: obs
+15:39:02.861: 	Bit depth: 24
+15:39:02.861: 	Found proper GLXFBConfig (in 24): yes
+15:39:02.861: 
+15:39:04.762: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+15:39:06.699: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:06.699: 	title: screencast-200623-1602-25.mp4 - mpv
+15:39:06.699: 	class: gl
+15:39:06.699: 	Bit depth: 24
+15:39:06.699: 	Found proper GLXFBConfig (in 24): yes
+15:39:06.699: 
+15:39:08.694: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:08.694: 	title: screencast-200623-1602-25.mp4 - mpv
+15:39:08.694: 	class: gl
+15:39:08.694: 	Bit depth: 24
+15:39:08.694: 	Found proper GLXFBConfig (in 24): yes
+15:39:08.694: 
+15:39:39.546: User Removed source 'Captura de Janela (Xcomposite)' (xcomposite_input) from scene 'Cena'
+15:39:44.018: User added source 'Captura de Janela (Xcomposite)' (xcomposite_input) to scene 'Cena'
+15:39:44.062: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:44.062: 	title: OBS 25.0.8-1 (linux) - Perfil: Sem nome - Cenas: Sem nome
+15:39:44.062: 	class: obs
+15:39:44.062: 	Bit depth: 24
+15:39:44.062: 	Found proper GLXFBConfig (in 24): yes
+15:39:44.062: 
+15:39:46.297: xcompcap: XCompositeNameWindowPixmap failed: BadMatch (invalid parameter attributes)
+15:39:50.406: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:50.406: 	title: error
+15:39:50.406: 	class: termite
+15:39:50.406: 	Bit depth: 32
+15:39:50.406: 	Found proper GLXFBConfig (in 24): yes
+15:39:50.406: 
+15:39:51.531: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:51.531: 	title: error
+15:39:51.531: 	class: termite
+15:39:51.531: 	Bit depth: 32
+15:39:51.531: 	Found proper GLXFBConfig (in 24): yes
+15:39:51.531: 
+15:39:52.637: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:52.637: 	title: error
+15:39:52.637: 	class: termite
+15:39:52.637: 	Bit depth: 32
+15:39:52.637: 	Found proper GLXFBConfig (in 24): yes
+15:39:52.637: 
+15:39:54.405: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:54.405: 	title: error
+15:39:54.405: 	class: termite
+15:39:54.405: 	Bit depth: 32
+15:39:54.405: 	Found proper GLXFBConfig (in 24): yes
+15:39:54.405: 
+15:39:56.912: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:56.912: 	title: error
+15:39:56.912: 	class: termite
+15:39:56.912: 	Bit depth: 32
+15:39:56.912: 	Found proper GLXFBConfig (in 24): yes
+15:39:56.912: 
+15:39:59.829: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:39:59.829: 	title: error
+15:39:59.829: 	class: termite
+15:39:59.829: 	Bit depth: 32
+15:39:59.829: 	Found proper GLXFBConfig (in 24): yes
+15:39:59.829: 
+15:40:03.974: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:40:03.974: 	title: error
+15:40:03.974: 	class: termite
+15:40:03.974: 	Bit depth: 32
+15:40:03.974: 	Found proper GLXFBConfig (in 24): yes
+15:40:03.974: 
+15:40:10.881: xcompcap: [window-capture: 'Captura de Janela (Xcomposite)'] update settings:
+15:40:10.881: 	title: error
+15:40:10.881: 	class: termite
+15:40:10.881: 	Bit depth: 32
+15:40:10.881: 	Found proper GLXFBConfig (in 24): yes
+15:40:10.881: 
+15:40:46.325: User Removed source 'Captura de Janela (Xcomposite)' (xcomposite_input) from scene 'Cena'
+15:41:10.100: User added source 'Imagem' (image_source) to scene 'Cena'
+15:42:02.774: User added source 'Texto (FreeType 2)' (text_ft2_source_v2) to scene 'Cena'
+15:43:38.130: User Removed source 'Texto (FreeType 2)' (text_ft2_source_v2) from scene 'Cena'
+15:44:45.064: User Removed source 'Imagem' (image_source) from scene 'Cena'
+15:44:52.672: User added source 'Imagem' (image_source) to scene 'Cena'
+15:45:09.427: User Removed source 'Imagem' (image_source) from scene 'Cena'
+15:45:14.807: [Media Source 'Fonte de mídia']: settings:
+15:45:14.807: 	input:                   
+15:45:14.807: 	input_format:            (null)
+15:45:14.807: 	speed:                   100
+15:45:14.807: 	is_looping:              no
+15:45:14.807: 	is_hw_decoding:          no
+15:45:14.807: 	is_clear_on_media_end:   yes
+15:45:14.807: 	restart_on_activate:     yes
+15:45:14.807: 	close_when_inactive:     no
+15:45:14.816: User added source 'Fonte de mídia' (ffmpeg_source) to scene 'Cena'
+15:45:29.125: [Media Source 'Fonte de mídia']: settings:
+15:45:29.125: 	input:                   /home/adame/Imagens/giphy.gif
+15:45:29.125: 	input_format:            (null)
+15:45:29.125: 	speed:                   100
+15:45:29.125: 	is_looping:              yes
+15:45:29.125: 	is_hw_decoding:          no
+15:45:29.125: 	is_clear_on_media_end:   yes
+15:45:29.125: 	restart_on_activate:     yes
+15:45:29.125: 	close_when_inactive:     no
+15:45:51.415: User added source 'Imagem' (image_source) to scene 'Cena'
+16:02:02.051: Source 'Cena' renamed to 'Main Scene'
+16:02:07.533: ==== Shutting down ==================================================
+16:02:07.536: Switched to scene '(null)'
+16:02:07.544: pulse-input: Stopped recording from 'echoCancel_sink.monitor'
+16:02:07.544: pulse-input: Got 297326 packets with 49275919 frames
+16:02:07.544: pulse-input: Stopped recording from 'echoCancel_source'
+16:02:07.544: pulse-input: Got 168317 packets with 53861440 frames
+16:02:07.545: All scene data cleared
+16:02:07.545: ------------------------------------------------
+16:02:07.602: Freeing OBS context data
+16:02:07.636: [Scripting] Total detached callbacks: 0
+16:02:07.644: == Profiler Results =============================
+16:02:07.644: run_program_init: 7651,49 ms
+16:02:07.644:  ┣OBSApp::AppInit: 149,655 ms
+16:02:07.644:  ┃ ┗OBSApp::InitLocale: 80,28 ms
+16:02:07.644:  ┗OBSApp::OBSInit: 5379,23 ms
+16:02:07.644:    ┣obs_startup: 41,126 ms
+16:02:07.644:    ┗OBSBasic::OBSInit: 4771,65 ms
+16:02:07.644:      ┣OBSBasic::InitBasicConfig: 5,356 ms
+16:02:07.644:      ┣OBSBasic::ResetAudio: 0,405 ms
+16:02:07.645:      ┣OBSBasic::ResetVideo: 511,78 ms
+16:02:07.645:      ┣OBSBasic::InitOBSCallbacks: 0,009 ms
+16:02:07.645:      ┣OBSBasic::InitHotkeys: 0,638 ms
+16:02:07.645:      ┣obs_load_all_modules: 1691,95 ms
+16:02:07.645:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 1,908 ms
+16:02:07.645:      ┃ ┣obs_init_module(frontend-tools.so): 136,273 ms
+16:02:07.645:      ┃ ┣obs_init_module(image-source.so): 0,022 ms
+16:02:07.645:      ┃ ┣obs_init_module(libobs-linuxbrowser.so): 0,032 ms
+16:02:07.645:      ┃ ┣obs_init_module(linux-alsa.so): 0,008 ms
+16:02:07.645:      ┃ ┣obs_init_module(linux-capture.so): 1,548 ms
+16:02:07.645:      ┃ ┣obs_init_module(linux-decklink.so): 0,628 ms
+16:02:07.645:      ┃ ┣obs_init_module(linux-jack.so): 0,004 ms
+16:02:07.645:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0,005 ms
+16:02:07.645:      ┃ ┣obs_init_module(linux-v4l2.so): 0,005 ms
+16:02:07.645:      ┃ ┣obs_init_module(obs-ffmpeg.so): 151,192 ms
+16:02:07.645:      ┃ ┃ ┗nvenc_check: 151,059 ms
+16:02:07.645:      ┃ ┣obs_init_module(obs-filters.so): 0,06 ms
+16:02:07.645:      ┃ ┣obs_init_module(obs-libfdk.so): 0,003 ms
+16:02:07.645:      ┃ ┣obs_init_module(obs-outputs.so): 0,006 ms
+16:02:07.645:      ┃ ┣obs_init_module(obs-transitions.so): 0,023 ms
+16:02:07.645:      ┃ ┣obs_init_module(obs-x264.so): 0,006 ms
+16:02:07.645:      ┃ ┣obs_init_module(rtmp-services.so): 40,637 ms
+16:02:07.645:      ┃ ┣obs_init_module(text-freetype2.so): 0,064 ms
+16:02:07.645:      ┃ ┣obs_init_module(vlc-video.so): 37,504 ms
+16:02:07.645:      ┃ ┗obs_init_module(libobs-linuxbrowser.so): 0,017 ms
+16:02:07.645:      ┣OBSBasic::ResetOutputs: 6,771 ms
+16:02:07.645:      ┣OBSBasic::CreateHotkeys: 0,122 ms
+16:02:07.645:      ┣OBSBasic::InitService: 18,337 ms
+16:02:07.645:      ┣OBSBasic::InitPrimitives: 0,67 ms
+16:02:07.645:      ┗OBSBasic::Load: 310,954 ms
+16:02:07.645: obs_hotkey_thread(25 ms): min=0,074 ms, median=0,588 ms, max=37,326 ms, 99th percentile=2,521 ms, 99,9954% below 25 ms
+16:02:07.645: audio_thread(Audio): min=0 ms, median=0,136 ms, max=150,684 ms, 99th percentile=0,504 ms
+16:02:07.645: obs_graphics_thread(33,3333 ms): min=0,058 ms, median=2,352 ms, max=287,35 ms, 99th percentile=13,21 ms, 99,8317% below 33,333 ms
+16:02:07.645:  ┣tick_sources: min=0 ms, median=0,02 ms, max=218,941 ms, 99th percentile=2,213 ms
+16:02:07.645:  ┣output_frame: min=0,026 ms, median=0,589 ms, max=169,432 ms, 99th percentile=1,671 ms
+16:02:07.645:  ┃ ┗gs_context(video->graphics): min=0,026 ms, median=0,589 ms, max=169,43 ms, 99th percentile=1,67 ms
+16:02:07.645:  ┃   ┣render_video: min=0,021 ms, median=0,295 ms, max=167,377 ms, 99th percentile=1,053 ms
+16:02:07.645:  ┃   ┃ ┗render_main_texture: min=0,017 ms, median=0,286 ms, max=167,365 ms, 99th percentile=1,028 ms
+16:02:07.645:  ┃   ┗gs_flush: min=0,001 ms, median=0,26 ms, max=4,853 ms, 99th percentile=0,672 ms
+16:02:07.645:  ┗render_displays: min=0,003 ms, median=1,444 ms, max=286,164 ms, 99th percentile=11,675 ms
+16:02:07.645: =================================================
+16:02:07.645: == Profiler Time Between Calls ==================
+16:02:07.645: obs_hotkey_thread(25 ms): min=25,147 ms, median=25,746 ms, max=62,555 ms, 24,9785% within ±2% of 25 ms (0% lower, 75,0215% higher)
+16:02:07.645: obs_graphics_thread(33,3333 ms): min=3,877 ms, median=33,333 ms, max=287,365 ms, 98,6619% within ±2% of 33,333 ms (0,663117% lower, 0,674994% higher)
+16:02:07.645: =================================================
+16:02:07.712: Number of memory leaks: 3

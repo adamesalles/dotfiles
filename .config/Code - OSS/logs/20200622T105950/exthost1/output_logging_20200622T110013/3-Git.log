@@ -1,0 +1,12 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/adame
+> git status -z -u
+> git show :Documentos/index.php
+> git ls-files --stage -- /home/adame/Documentos/index.php
+> git check-ignore -v -z --stdin
+> git show :Documentos/index.html
+> git ls-files --stage -- /home/adame/Documentos/index.html
+> git check-ignore -v -z --stdin

@@ -1,0 +1,5 @@
+2020/06/26-10:59:30.781 8ce Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_esportes.yahoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/26-10:59:32.946 643 Level-0 table #5: started
+2020/06/26-10:59:32.980 643 Level-0 table #5: 860 bytes OK
+2020/06/26-10:59:33.035 643 Delete type=0 #3
+2020/06/26-10:59:33.036 643 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

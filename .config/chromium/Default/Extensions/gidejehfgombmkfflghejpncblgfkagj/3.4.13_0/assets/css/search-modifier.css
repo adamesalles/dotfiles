@@ -1,0 +1,41 @@
+.cpn-extension-result {
+  padding: 10px 2px 5px 0;
+  display: block;
+  color: #5c5c5c;
+  font-size: 18px;
+}
+
+.cpn-extension-result:hover,
+.cpn-extension-result .icon:hover {
+  text-decoration: none;
+}
+
+.cpn-extension-result .icon {
+  display: inline-block;
+}
+
+.cpn-extension-result .icon:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.cpn-extension-result .icon img {
+  margin-right: 4px;
+  width: 20px;
+  bottom: -4px;
+  position: relative;
+  user-select: none;
+}
+
+.cpn-extension-result .plus {
+  position: relative;
+  bottom: -2px;
+  margin: 0 2px;
+  width: 16px;
+  display: inline-block;
+  cursor: text;
+}
+
+.cpn-extension-result .plus img {
+  width: 100%;
+}

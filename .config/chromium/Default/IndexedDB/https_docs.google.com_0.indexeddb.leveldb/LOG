@@ -1,0 +1,8 @@
+2020/06/28-13:04:55.058 5bb Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/28-13:04:55.058 5bb Recovering log #2167
+2020/06/28-13:04:55.058 5bb Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/002167.log 
+2020/06/28-13:05:12.262 756 Level-0 table #2172: started
+2020/06/28-13:05:12.262 756 Level-0 table #2172: 0 bytes OK
+2020/06/28-13:05:12.310 756 Delete type=0 #2167
+2020/06/28-13:05:12.310 756 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/28-13:05:12.310 756 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

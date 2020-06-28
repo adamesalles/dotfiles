@@ -1,0 +1,5 @@
+2020/06/23-23:33:50.500 35b5 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_www.foregon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/23-23:34:57.600 7db Level-0 table #5: started
+2020/06/23-23:34:57.632 7db Level-0 table #5: 5723 bytes OK
+2020/06/23-23:34:57.662 7db Delete type=0 #3
+2020/06/23-23:34:57.662 7db Manual compaction at level-0 from (begin) .. (end); will stop at (end)

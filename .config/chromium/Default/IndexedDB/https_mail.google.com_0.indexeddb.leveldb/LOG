@@ -1,0 +1,15 @@
+2020/06/24-14:06:15.329 7af8 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/24-14:06:15.329 7af8 Recovering log #30
+2020/06/24-14:06:15.329 7af8 Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000030.log 
+2020/06/24-14:07:55.171 636 Level-0 table #35: started
+2020/06/24-14:07:55.242 636 Level-0 table #35: 621692 bytes OK
+2020/06/24-14:07:55.271 636 Delete type=0 #30
+2020/06/24-14:07:55.271 636 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/24-14:07:55.272 636 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 6961 : 1
+2020/06/24-14:07:55.272 636 Compacting 1@1 + 1@2 files
+2020/06/24-14:07:55.318 636 Generated table #36@1: 105 keys, 40517 bytes
+2020/06/24-14:07:55.318 636 Compacted 1@1 + 1@2 files => 40517 bytes
+2020/06/24-14:07:55.348 636 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/24-14:07:55.348 636 Delete type=2 #35
+2020/06/24-14:07:55.348 636 Delete type=2 #32
+2020/06/24-14:07:55.348 636 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 6961 : 1 .. (end); will stop at (end)

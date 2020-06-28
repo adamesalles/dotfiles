@@ -1,0 +1,15 @@
+2020/06/28-13:01:46.588 5bb Reusing MANIFEST /home/adame/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/06/28-13:01:46.660 5bb Recovering log #414
+2020/06/28-13:01:46.725 5bb Reusing old log /home/adame/.config/chromium/Default/Local Storage/leveldb/000414.log 
+2020/06/28-13:05:00.056 7e6 Level-0 table #418: started
+2020/06/28-13:05:00.097 7e6 Level-0 table #418: 66451 bytes OK
+2020/06/28-13:05:00.136 7e6 Delete type=0 #414
+2020/06/28-13:05:00.136 7e6 Compacting 4@0 + 1@1 files
+2020/06/28-13:05:00.287 7e6 Generated table #419@0: 5109 keys, 1836723 bytes
+2020/06/28-13:05:00.287 7e6 Compacted 4@0 + 1@1 files => 1836723 bytes
+2020/06/28-13:05:00.323 7e6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/28-13:05:00.324 7e6 Delete type=2 #408
+2020/06/28-13:05:00.324 7e6 Delete type=2 #415
+2020/06/28-13:05:00.324 7e6 Delete type=2 #418
+2020/06/28-13:05:00.324 7e6 Delete type=2 #412
+2020/06/28-13:05:00.324 7e6 Delete type=2 #410

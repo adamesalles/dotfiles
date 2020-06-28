@@ -1,0 +1,8 @@
+2020/06/26-21:15:29.944 8b07 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_m.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/26-21:15:29.972 8b07 Recovering log #4
+2020/06/26-21:15:29.972 8b07 Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_m.facebook.com_0.indexeddb.leveldb/000004.log 
+2020/06/26-21:15:47.187 62a Level-0 table #8: started
+2020/06/26-21:15:47.188 62a Level-0 table #8: 0 bytes OK
+2020/06/26-21:15:47.226 62a Delete type=0 #4
+2020/06/26-21:15:47.226 62a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/26-21:15:47.227 62a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

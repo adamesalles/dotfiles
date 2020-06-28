@@ -1,0 +1,32 @@
+{
+  "sync.gist": "51deaf42794216cf886711a46be3cf0b",
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false,
+  "files.associations": {
+    "*.html": "html",
+    "*.rmd": "markdown"
+  },
+  "kite.showWelcomeNotificationOnStartup": false,
+  "workbench.iconTheme": "vscode-icons",
+  "[html]": {
+    "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+  },
+  "workbench.colorTheme": "Dracula",
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "editor.renderLineHighlight": "gutter",
+  "terminal.integrated.fontSize": 14,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "prettier.eslintintergration": true
+}

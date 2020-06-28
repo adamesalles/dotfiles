@@ -1,0 +1,15 @@
+2020/06/26-22:07:09.935 93e6 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/26-22:07:09.936 93e6 Recovering log #4
+2020/06/26-22:07:09.936 93e6 Reusing old log /home/adame/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000004.log 
+2020/06/26-23:14:28.317 62a Level-0 table #8: started
+2020/06/26-23:14:28.345 62a Level-0 table #8: 903 bytes OK
+2020/06/26-23:14:28.385 62a Delete type=0 #4
+2020/06/26-23:14:28.385 62a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/26-23:14:28.385 62a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 216 : 1
+2020/06/26-23:14:28.386 62a Compacting 1@1 + 1@2 files
+2020/06/26-23:14:28.423 62a Generated table #9@1: 67 keys, 1339 bytes
+2020/06/26-23:14:28.423 62a Compacted 1@1 + 1@2 files => 1339 bytes
+2020/06/26-23:14:28.462 62a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/26-23:14:28.462 62a Delete type=2 #5
+2020/06/26-23:14:28.462 62a Delete type=2 #8
+2020/06/26-23:14:28.463 62a Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 216 : 1 .. (end); will stop at (end)

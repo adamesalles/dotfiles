@@ -1,0 +1,219 @@
+[2020-06-14 22:13:25.295] [sharedprocess] [info] main {"machineId":"8f5dd47b776b60097944188d40e517d7473783776223de9b44e8296de8130f03","windowId":2}
+[2020-06-14 22:13:25.321] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/adame/.config/Code - OSS/User/snippets'
+[2020-06-14 22:14:00.031] [sharedprocess] [info] Installing extension: shan.code-settings-sync
+[2020-06-14 22:14:00.702] [sharedprocess] [info] Downloaded extension: shan.code-settings-sync /tmp/b5d1ee09-ab41-4bae-b4a1-383f7335b5cc
+[2020-06-14 22:14:00.908] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.shan.code-settings-sync-3.4.3: shan.code-settings-sync
+[2020-06-14 22:14:00.908] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/shan.code-settings-sync-3.4.3
+[2020-06-14 22:14:00.909] [sharedprocess] [info] Installation completed. shan.code-settings-sync
+[2020-06-14 22:14:00.953] [sharedprocess] [info] Extensions installed successfully: shan.code-settings-sync
+[2020-06-14 22:14:05.314] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-14 22:15:08.132] [sharedprocess] [info] Installing extension: nash.awesome-flutter-snippets
+[2020-06-14 22:15:09.035] [sharedprocess] [info] Downloaded extension: nash.awesome-flutter-snippets /tmp/0d2ce8bd-d4fb-4d7b-8437-2836572839cf
+[2020-06-14 22:15:09.058] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.nash.awesome-flutter-snippets-2.0.3: nash.awesome-flutter-snippets
+[2020-06-14 22:15:09.058] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/nash.awesome-flutter-snippets-2.0.3
+[2020-06-14 22:15:09.059] [sharedprocess] [info] Installation completed. nash.awesome-flutter-snippets
+[2020-06-14 22:15:09.120] [sharedprocess] [info] Extensions installed successfully: nash.awesome-flutter-snippets
+[2020-06-14 22:15:09.335] [sharedprocess] [info] Installing extension: aaron-bond.better-comments
+[2020-06-14 22:15:09.870] [sharedprocess] [info] Downloaded extension: aaron-bond.better-comments /tmp/dbce3b43-0489-48a6-96a8-5e34efd0c544
+[2020-06-14 22:15:09.890] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.aaron-bond.better-comments-2.0.5: aaron-bond.better-comments
+[2020-06-14 22:15:09.890] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/aaron-bond.better-comments-2.0.5
+[2020-06-14 22:15:09.891] [sharedprocess] [info] Installation completed. aaron-bond.better-comments
+[2020-06-14 22:15:09.928] [sharedprocess] [info] Extensions installed successfully: aaron-bond.better-comments
+[2020-06-14 22:15:10.287] [sharedprocess] [info] Installing extension: alefragnani.bookmarks
+[2020-06-14 22:15:11.280] [sharedprocess] [info] Downloaded extension: alefragnani.bookmarks /tmp/ef267356-9d4a-45f0-ba27-14e8a55f473f
+[2020-06-14 22:15:11.417] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.alefragnani.bookmarks-11.2.0: alefragnani.bookmarks
+[2020-06-14 22:15:11.417] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/alefragnani.bookmarks-11.2.0
+[2020-06-14 22:15:11.419] [sharedprocess] [info] Installation completed. alefragnani.bookmarks
+[2020-06-14 22:15:11.458] [sharedprocess] [info] Extensions installed successfully: alefragnani.bookmarks
+[2020-06-14 22:15:11.687] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2020-06-14 22:15:12.351] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /tmp/38a2d26c-5807-45e9-8526-82d89756a025
+[2020-06-14 22:15:13.073] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.coenraads.bracket-pair-colorizer-1.0.61: coenraads.bracket-pair-colorizer
+[2020-06-14 22:15:13.073] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2020-06-14 22:15:13.074] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer
+[2020-06-14 22:15:13.121] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer
+[2020-06-14 22:15:13.318] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2020-06-14 22:15:14.035] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /tmp/71699b12-c040-4be6-acf9-4b4c7347ae1f
+[2020-06-14 22:15:14.218] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2020-06-14 22:15:14.218] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/naumovs.color-highlight-2.3.0
+[2020-06-14 22:15:14.219] [sharedprocess] [info] Installation completed. naumovs.color-highlight
+[2020-06-14 22:15:14.265] [sharedprocess] [info] Extensions installed successfully: naumovs.color-highlight
+[2020-06-14 22:15:14.555] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-06-14 22:15:15.540] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/b3a4c4ea-b0da-4cd5-b3cb-7fe9e98a9aed
+[2020-06-14 22:15:15.999] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.ms-vscode.cpptools-0.28.3: ms-vscode.cpptools
+[2020-06-14 22:15:15.999] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/ms-vscode.cpptools-0.28.3
+[2020-06-14 22:15:16.003] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-06-14 22:15:16.044] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-06-14 22:15:16.271] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2020-06-14 22:15:16.733] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp /tmp/71a3f7b9-82e2-48fe-b469-3c87adc5c756
+[2020-06-14 22:15:16.806] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.ms-dotnettools.csharp-1.22.0: ms-dotnettools.csharp
+[2020-06-14 22:15:16.806] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/ms-dotnettools.csharp-1.22.0
+[2020-06-14 22:15:16.809] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2020-06-14 22:15:16.857] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2020-06-14 22:15:17.115] [sharedprocess] [info] Installing extension: rifi2k.format-html-in-php
+[2020-06-14 22:15:19.265] [sharedprocess] [info] Downloaded extension: rifi2k.format-html-in-php /tmp/6e48d1b8-64be-474e-a0f8-5abbb17146cb
+[2020-06-14 22:15:19.704] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.rifi2k.format-html-in-php-1.6.2: rifi2k.format-html-in-php
+[2020-06-14 22:15:19.704] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/rifi2k.format-html-in-php-1.6.2
+[2020-06-14 22:15:19.704] [sharedprocess] [info] Installation completed. rifi2k.format-html-in-php
+[2020-06-14 22:15:19.746] [sharedprocess] [info] Extensions installed successfully: rifi2k.format-html-in-php
+[2020-06-14 22:15:19.918] [sharedprocess] [info] Installing extension: zignd.html-css-class-completion
+[2020-06-14 22:15:21.794] [sharedprocess] [info] Downloaded extension: zignd.html-css-class-completion /tmp/bf83a6e6-31b2-44ca-99fd-59b3a58ca71f
+[2020-06-14 22:15:24.004] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.zignd.html-css-class-completion-1.19.0: zignd.html-css-class-completion
+[2020-06-14 22:15:24.004] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/zignd.html-css-class-completion-1.19.0
+[2020-06-14 22:15:24.005] [sharedprocess] [info] Installation completed. zignd.html-css-class-completion
+[2020-06-14 22:15:24.075] [sharedprocess] [info] Extensions installed successfully: zignd.html-css-class-completion
+[2020-06-14 22:15:24.302] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2020-06-14 22:15:24.860] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /tmp/8583a0c3-8ecc-464e-96c8-5ca5b57d62ee
+[2020-06-14 22:15:24.883] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+[2020-06-14 22:15:24.883] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/abusaidm.html-snippets-0.2.1
+[2020-06-14 22:15:24.884] [sharedprocess] [info] Installation completed. abusaidm.html-snippets
+[2020-06-14 22:15:24.915] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2020-06-14 22:15:25.091] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2020-06-14 22:15:25.506] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /tmp/f5ee28ca-1b6c-4770-a1b5-12c570c6e444
+[2020-06-14 22:15:25.551] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+[2020-06-14 22:15:25.551] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/xabikos.javascriptsnippets-1.8.0
+[2020-06-14 22:15:25.554] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets
+[2020-06-14 22:15:25.594] [sharedprocess] [info] Extensions installed successfully: xabikos.javascriptsnippets
+[2020-06-14 22:15:25.843] [sharedprocess] [info] Installing extension: kiteco.kite
+[2020-06-14 22:15:26.488] [sharedprocess] [info] Downloaded extension: kiteco.kite /tmp/e0b10b36-61d9-4308-b77d-b7c97619c146
+[2020-06-14 22:15:26.666] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.kiteco.kite-0.117.0: kiteco.kite
+[2020-06-14 22:15:26.666] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/kiteco.kite-0.117.0
+[2020-06-14 22:15:26.667] [sharedprocess] [info] Installation completed. kiteco.kite
+[2020-06-14 22:15:26.723] [sharedprocess] [info] Extensions installed successfully: kiteco.kite
+[2020-06-14 22:15:26.901] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2020-06-14 22:15:28.555] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /tmp/5cad7e93-bad9-4fa1-82c1-cdeb396418fc
+[2020-06-14 22:15:31.118] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-06-14 22:15:31.118] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1
+[2020-06-14 22:15:31.120] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2020-06-14 22:15:31.330] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-06-14 22:15:31.521] [sharedprocess] [info] Installing extension: magicstack.magicpython
+[2020-06-14 22:15:32.118] [sharedprocess] [info] Downloaded extension: magicstack.magicpython /tmp/38238f95-c2c6-4e1a-800a-f0a1fd96330b
+[2020-06-14 22:15:32.560] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.magicstack.magicpython-1.1.0: magicstack.magicpython
+[2020-06-14 22:15:32.560] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/magicstack.magicpython-1.1.0
+[2020-06-14 22:15:32.563] [sharedprocess] [info] Installation completed. magicstack.magicpython
+[2020-06-14 22:15:32.620] [sharedprocess] [info] Extensions installed successfully: magicstack.magicpython
+[2020-06-14 22:15:32.804] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2020-06-14 22:15:33.764] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense /tmp/cabcb514-dbfe-4ca9-af0c-736f94a69717
+[2020-06-14 22:15:35.710] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.felixfbecker.php-intellisense-2.3.14: felixfbecker.php-intellisense
+[2020-06-14 22:15:35.712] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/felixfbecker.php-intellisense-2.3.14
+[2020-06-14 22:15:35.715] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2020-06-14 22:15:35.795] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
+[2020-06-14 22:15:36.011] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-06-14 22:15:37.121] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/3edc7b26-bda3-4453-b93a-ebc881d56a1b
+[2020-06-14 22:15:37.481] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.esbenp.prettier-vscode-5.0.0: esbenp.prettier-vscode
+[2020-06-14 22:15:37.481] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0
+[2020-06-14 22:15:37.484] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-06-14 22:15:37.581] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-06-14 22:15:37.812] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-14 22:15:50.886] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/b73f48a2-c347-4ce6-95a4-4de9a9757339
+[2020-06-14 22:16:10.778] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.ms-python.python-2020.5.86806: ms-python.python
+[2020-06-14 22:16:10.783] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/ms-python.python-2020.5.86806
+[2020-06-14 22:16:10.790] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-14 22:16:10.870] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-06-14 22:16:11.122] [sharedprocess] [info] Installing extension: tht13.python
+[2020-06-14 22:16:11.898] [sharedprocess] [info] Downloaded extension: tht13.python /tmp/5d2081a8-ac54-4911-8f43-0dfd7844b214
+[2020-06-14 22:16:12.277] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.tht13.python-0.2.3: tht13.python
+[2020-06-14 22:16:12.277] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/tht13.python-0.2.3
+[2020-06-14 22:16:12.278] [sharedprocess] [info] Installation completed. tht13.python
+[2020-06-14 22:16:12.316] [sharedprocess] [info] Extensions installed successfully: tht13.python
+[2020-06-14 22:16:13.042] [sharedprocess] [info] Installing extension: tushortz.python-extended-snippets
+[2020-06-14 22:16:14.354] [sharedprocess] [info] Downloaded extension: tushortz.python-extended-snippets /tmp/0d394580-1a64-4459-b564-c5e5fd1f990b
+[2020-06-14 22:16:14.496] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.tushortz.python-extended-snippets-0.0.1: tushortz.python-extended-snippets
+[2020-06-14 22:16:14.496] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/tushortz.python-extended-snippets-0.0.1
+[2020-06-14 22:16:14.497] [sharedprocess] [info] Installation completed. tushortz.python-extended-snippets
+[2020-06-14 22:16:14.557] [sharedprocess] [info] Extensions installed successfully: tushortz.python-extended-snippets
+[2020-06-14 22:16:20.750] [sharedprocess] [info] Installing extension: donjayamanne.python-extension-pack
+[2020-06-14 22:16:21.216] [sharedprocess] [info] Downloaded extension: donjayamanne.python-extension-pack /tmp/29e6e211-d891-4c1b-8713-ebbe64f876e2
+[2020-06-14 22:16:21.292] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.donjayamanne.python-extension-pack-1.6.0: donjayamanne.python-extension-pack
+[2020-06-14 22:16:21.292] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/donjayamanne.python-extension-pack-1.6.0
+[2020-06-14 22:16:21.293] [sharedprocess] [info] Installation completed. donjayamanne.python-extension-pack
+[2020-06-14 22:16:22.341] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-06-14 22:16:22.342] [sharedprocess] [info] Installing extension: batisteo.vscode-django
+[2020-06-14 22:16:22.342] [sharedprocess] [info] Installing extension: wholroyd.jinja
+[2020-06-14 22:16:23.364] [sharedprocess] [info] Downloaded extension: wholroyd.jinja /tmp/5f274c6e-360c-4516-9d16-3dd000979d48
+[2020-06-14 22:16:23.468] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.wholroyd.jinja-0.0.8: wholroyd.jinja
+[2020-06-14 22:16:23.469] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/wholroyd.jinja-0.0.8
+[2020-06-14 22:16:23.470] [sharedprocess] [info] Installation completed. wholroyd.jinja
+[2020-06-14 22:16:23.510] [sharedprocess] [info] Extensions installed successfully: wholroyd.jinja
+[2020-06-14 22:16:26.000] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django /tmp/5916b7db-7546-4600-bfca-18a7d2c9e5fe
+[2020-06-14 22:16:26.817] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/3bb674ff-ce8c-4f94-ae13-366a70a2b9fb
+[2020-06-14 22:16:29.273] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.visualstudioexptteam.vscodeintellicode-1.2.8: visualstudioexptteam.vscodeintellicode
+[2020-06-14 22:16:29.274] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.2.8
+[2020-06-14 22:16:29.276] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-06-14 22:16:29.354] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-06-14 22:16:41.689] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.batisteo.vscode-django-0.20.0: batisteo.vscode-django
+[2020-06-14 22:16:41.689] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/batisteo.vscode-django-0.20.0
+[2020-06-14 22:16:41.690] [sharedprocess] [info] Installation completed. batisteo.vscode-django
+[2020-06-14 22:16:41.780] [sharedprocess] [info] Extensions installed successfully: batisteo.vscode-django
+[2020-06-14 22:16:41.781] [sharedprocess] [info] Extensions installed successfully: donjayamanne.python-extension-pack
+[2020-06-14 22:16:42.054] [sharedprocess] [info] Installing extension: frhtylcn.pythonsnippets
+[2020-06-14 22:16:43.744] [sharedprocess] [info] Downloaded extension: frhtylcn.pythonsnippets /tmp/ff88b59a-94cc-4236-855a-c13dfdda2861
+[2020-06-14 22:16:44.812] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.frhtylcn.pythonsnippets-1.0.2: frhtylcn.pythonsnippets
+[2020-06-14 22:16:44.816] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/frhtylcn.pythonsnippets-1.0.2
+[2020-06-14 22:16:44.820] [sharedprocess] [info] Installation completed. frhtylcn.pythonsnippets
+[2020-06-14 22:16:44.940] [sharedprocess] [info] Extensions installed successfully: frhtylcn.pythonsnippets
+[2020-06-14 22:16:45.161] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2020-06-14 22:16:45.683] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /tmp/ce652c43-c687-4547-a4b0-682642d4ba98
+[2020-06-14 22:16:45.736] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.dracula-theme.theme-dracula-2.22.1: dracula-theme.theme-dracula
+[2020-06-14 22:16:45.736] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/dracula-theme.theme-dracula-2.22.1
+[2020-06-14 22:16:45.737] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2020-06-14 22:16:45.787] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2020-06-14 22:16:46.149] [sharedprocess] [info] Installing extension: whatwedo.twig
+[2020-06-14 22:16:46.544] [sharedprocess] [info] Downloaded extension: whatwedo.twig /tmp/f79bf3b0-5217-4dae-97c1-544a7494803f
+[2020-06-14 22:16:46.606] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.whatwedo.twig-1.0.2: whatwedo.twig
+[2020-06-14 22:16:46.610] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/whatwedo.twig-1.0.2
+[2020-06-14 22:16:46.617] [sharedprocess] [info] Installation completed. whatwedo.twig
+[2020-06-14 22:16:46.658] [sharedprocess] [info] Extensions installed successfully: whatwedo.twig
+[2020-06-14 22:16:46.863] [sharedprocess] [info] Installing extension: kevinrose.vsc-python-indent
+[2020-06-14 22:16:47.547] [sharedprocess] [info] Downloaded extension: kevinrose.vsc-python-indent /tmp/80e322d0-0fae-4e53-83d0-86c2054ad2e3
+[2020-06-14 22:16:47.668] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.kevinrose.vsc-python-indent-1.10.1: kevinrose.vsc-python-indent
+[2020-06-14 22:16:47.668] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/kevinrose.vsc-python-indent-1.10.1
+[2020-06-14 22:16:47.673] [sharedprocess] [info] Installation completed. kevinrose.vsc-python-indent
+[2020-06-14 22:16:47.724] [sharedprocess] [info] Extensions installed successfully: kevinrose.vsc-python-indent
+[2020-06-14 22:16:47.951] [sharedprocess] [info] Installing extension: pranaygp.vscode-css-peek
+[2020-06-14 22:16:49.782] [sharedprocess] [info] Downloaded extension: pranaygp.vscode-css-peek /tmp/3b44e522-cba1-4861-8ee3-8c1625bc9d46
+[2020-06-14 22:17:01.995] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.pranaygp.vscode-css-peek-3.0.2: pranaygp.vscode-css-peek
+[2020-06-14 22:17:01.996] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/pranaygp.vscode-css-peek-3.0.2
+[2020-06-14 22:17:02.000] [sharedprocess] [info] Installation completed. pranaygp.vscode-css-peek
+[2020-06-14 22:17:02.051] [sharedprocess] [info] Extensions installed successfully: pranaygp.vscode-css-peek
+[2020-06-14 22:17:02.505] [sharedprocess] [info] Installing extension: batisteo.vscode-django
+[2020-06-14 22:17:02.967] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django /tmp/1e14ce65-6a12-4c37-adcb-57023a9283d6
+[2020-06-14 22:17:11.845] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.batisteo.vscode-django-0.20.0: batisteo.vscode-django
+[2020-06-14 22:17:11.845] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/batisteo.vscode-django-0.20.0
+[2020-06-14 22:17:11.846] [sharedprocess] [info] Installation completed. batisteo.vscode-django
+[2020-06-14 22:17:11.886] [sharedprocess] [info] Extensions installed successfully: batisteo.vscode-django
+[2020-06-14 22:17:12.075] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-06-14 22:17:12.558] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/17449ae1-200f-4916-8c44-faefacc9f14e
+[2020-06-14 22:17:12.633] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.dbaeumer.vscode-eslint-2.1.5: dbaeumer.vscode-eslint
+[2020-06-14 22:17:12.633] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.5
+[2020-06-14 22:17:12.635] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-06-14 22:17:12.695] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-06-14 22:17:12.898] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2020-06-14 22:17:13.504] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /tmp/0cf6918f-b13c-49dd-ad85-91b75164f838
+[2020-06-14 22:17:13.583] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.ecmel.vscode-html-css-0.2.3: ecmel.vscode-html-css
+[2020-06-14 22:17:13.583] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/ecmel.vscode-html-css-0.2.3
+[2020-06-14 22:17:13.584] [sharedprocess] [info] Installation completed. ecmel.vscode-html-css
+[2020-06-14 22:17:13.630] [sharedprocess] [info] Extensions installed successfully: ecmel.vscode-html-css
+[2020-06-14 22:17:13.872] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2020-06-14 22:17:14.520] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/93c896f7-8417-4d25-b585-f9712073dbab
+[2020-06-14 22:17:16.463] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.vscode-icons-team.vscode-icons-10.1.1: vscode-icons-team.vscode-icons
+[2020-06-14 22:17:16.463] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.1.1
+[2020-06-14 22:17:16.466] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2020-06-14 22:17:16.523] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2020-06-14 22:17:16.756] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2020-06-14 22:17:18.126] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client /tmp/6f0bee38-4fc1-4722-a7d5-fba295fec7d8
+[2020-06-14 22:17:19.853] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.bmewburn.vscode-intelephense-client-1.4.1: bmewburn.vscode-intelephense-client
+[2020-06-14 22:17:19.853] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/bmewburn.vscode-intelephense-client-1.4.1
+[2020-06-14 22:17:19.859] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2020-06-14 22:17:19.910] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client
+[2020-06-14 22:17:20.174] [sharedprocess] [info] Installing extension: bajdzis.vscode-twig-pack
+[2020-06-14 22:17:20.777] [sharedprocess] [info] Downloaded extension: bajdzis.vscode-twig-pack /tmp/33d53c37-349a-4865-8199-40d313248b1e
+[2020-06-14 22:17:20.864] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.bajdzis.vscode-twig-pack-1.1.0: bajdzis.vscode-twig-pack
+[2020-06-14 22:17:20.864] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/bajdzis.vscode-twig-pack-1.1.0
+[2020-06-14 22:17:20.865] [sharedprocess] [info] Installation completed. bajdzis.vscode-twig-pack
+[2020-06-14 22:17:20.906] [sharedprocess] [info] Extensions installed successfully: bajdzis.vscode-twig-pack
+[2020-06-14 22:17:21.085] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-06-14 22:17:21.466] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/63e1d129-fa50-4069-83c6-8cc74c9f15c4
+[2020-06-14 22:17:23.372] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.visualstudioexptteam.vscodeintellicode-1.2.8: visualstudioexptteam.vscodeintellicode
+[2020-06-14 22:17:23.374] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.2.8
+[2020-06-14 22:17:23.376] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-06-14 22:17:23.422] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode

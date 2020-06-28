@@ -1,0 +1,6 @@
+2020/06/28-12:43:55.756 5b5 Reusing MANIFEST /home/adame/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/06/28-12:43:55.887 5b5 Recovering log #411
+2020/06/28-12:43:56.181 5b5 Reusing old log /home/adame/.config/chromium/Default/Local Storage/leveldb/000411.log 
+2020/06/28-12:45:13.646 722 Level-0 table #415: started
+2020/06/28-12:45:13.736 722 Level-0 table #415: 17408 bytes OK
+2020/06/28-12:45:13.824 722 Delete type=0 #411

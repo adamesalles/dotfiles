@@ -1,0 +1,160 @@
+["INFO" - 11:00:14] Extension Name: esbenp.prettier-vscode.
+["INFO" - 11:00:14] Extension Version: 5.0.0.
+["INFO" - 11:00:14] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 11:00:14] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 11:04:09] Formatting /home/adame/Documentos/index.html
+["INFO" - 11:04:09] Using ignore file (if present) at undefined
+["INFO" - 11:04:09] Using bundled version of prettier.
+["INFO" - 11:04:09] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:04:09] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:04:09] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/index.html",
+  "parser": "html"
+}
+["INFO" - 11:04:09] Formatting completed in 312.930995ms.
+["INFO" - 11:05:08] Formatting /home/adame/Documentos/index.html
+["INFO" - 11:05:08] Using ignore file (if present) at undefined
+["INFO" - 11:05:08] Using bundled version of prettier.
+["INFO" - 11:05:08] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:05:08] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:05:08] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/index.html",
+  "parser": "html"
+}
+["INFO" - 11:05:08] Formatting completed in 34.071427ms.
+["INFO" - 11:05:52] Formatting /home/adame/Documentos/index.html
+["INFO" - 11:05:52] Using ignore file (if present) at undefined
+["INFO" - 11:05:52] Using bundled version of prettier.
+["INFO" - 11:05:52] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:05:52] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:05:52] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/index.html",
+  "parser": "html"
+}
+["INFO" - 11:05:52] Formatting completed in 76.885308ms.
+["INFO" - 11:06:27] Formatting /home/adame/Documentos/index.html
+["INFO" - 11:06:27] Using ignore file (if present) at undefined
+["INFO" - 11:06:27] Using bundled version of prettier.
+["INFO" - 11:06:27] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:06:27] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:06:27] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/adame/Documentos/index.html",
+  "parser": "html"
+}
+["INFO" - 11:06:27] Formatting completed in 62.113498ms.

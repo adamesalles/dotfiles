@@ -1,0 +1,252 @@
+Realtime Extension Download Summary
+--------------------
+TOTAL EXTENSIONS : 32
+
+
+
+[x] - EXTENSION: awesome-flutter-snippets - INSTALLING
+
+[x] - EXTENSION: awesome-flutter-snippets INSTALLED.
+      1 OF 32 INSTALLED
+
+
+[x] - EXTENSION: better-comments - INSTALLING
+
+[x] - EXTENSION: better-comments INSTALLED.
+      2 OF 32 INSTALLED
+
+
+[x] - EXTENSION: Bookmarks - INSTALLING
+
+[x] - EXTENSION: Bookmarks INSTALLED.
+      3 OF 32 INSTALLED
+
+
+[x] - EXTENSION: bracket-pair-colorizer - INSTALLING
+
+[x] - EXTENSION: bracket-pair-colorizer INSTALLED.
+      4 OF 32 INSTALLED
+
+
+[x] - EXTENSION: color-highlight - INSTALLING
+
+[x] - EXTENSION: color-highlight INSTALLED.
+      5 OF 32 INSTALLED
+
+
+[x] - EXTENSION: cpptools - INSTALLING
+
+[x] - EXTENSION: cpptools INSTALLED.
+      6 OF 32 INSTALLED
+
+
+[x] - EXTENSION: csharp - INSTALLING
+
+[x] - EXTENSION: csharp INSTALLED.
+      7 OF 32 INSTALLED
+
+
+[x] - EXTENSION: format-html-in-php - INSTALLING
+
+[x] - EXTENSION: format-html-in-php INSTALLED.
+      8 OF 32 INSTALLED
+
+
+[x] - EXTENSION: html-css-class-completion - INSTALLING
+
+[x] - EXTENSION: html-css-class-completion INSTALLED.
+      9 OF 32 INSTALLED
+
+
+[x] - EXTENSION: html-snippets - INSTALLING
+
+[x] - EXTENSION: html-snippets INSTALLED.
+      10 OF 32 INSTALLED
+
+
+[x] - EXTENSION: JavaScriptSnippets - INSTALLING
+
+[x] - EXTENSION: JavaScriptSnippets INSTALLED.
+      11 OF 32 INSTALLED
+
+
+[x] - EXTENSION: kite - INSTALLING
+
+[x] - EXTENSION: kite INSTALLED.
+      12 OF 32 INSTALLED
+
+
+[x] - EXTENSION: LiveServer - INSTALLING
+
+[x] - EXTENSION: LiveServer INSTALLED.
+      13 OF 32 INSTALLED
+
+
+[x] - EXTENSION: MagicPython - INSTALLING
+
+[x] - EXTENSION: MagicPython INSTALLED.
+      14 OF 32 INSTALLED
+
+
+[x] - EXTENSION: php-intellisense - INSTALLING
+
+[x] - EXTENSION: php-intellisense INSTALLED.
+      15 OF 32 INSTALLED
+
+
+[x] - EXTENSION: prettier-vscode - INSTALLING
+
+[x] - EXTENSION: prettier-vscode INSTALLED.
+      16 OF 32 INSTALLED
+
+
+[x] - EXTENSION: python - INSTALLING
+
+[x] - EXTENSION: python INSTALLED.
+      17 OF 32 INSTALLED
+
+
+[x] - EXTENSION: python - INSTALLING
+
+[x] - EXTENSION: python INSTALLED.
+      18 OF 32 INSTALLED
+
+
+[x] - EXTENSION: python-extended-snippets - INSTALLING
+
+[x] - EXTENSION: python-extended-snippets INSTALLED.
+      19 OF 32 INSTALLED
+
+
+[x] - EXTENSION: python-extension-pack - INSTALLING
+
+[x] - EXTENSION: python-extension-pack INSTALLED.
+      20 OF 32 INSTALLED
+
+
+[x] - EXTENSION: pythonsnippets - INSTALLING
+
+[x] - EXTENSION: pythonsnippets INSTALLED.
+      21 OF 32 INSTALLED
+
+
+[x] - EXTENSION: theme-dracula - INSTALLING
+
+[x] - EXTENSION: theme-dracula INSTALLED.
+      22 OF 32 INSTALLED
+
+
+[x] - EXTENSION: twig - INSTALLING
+
+[x] - EXTENSION: twig INSTALLED.
+      23 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vsc-python-indent - INSTALLING
+
+[x] - EXTENSION: vsc-python-indent INSTALLED.
+      24 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vscode-css-peek - INSTALLING
+
+[x] - EXTENSION: vscode-css-peek INSTALLED.
+      25 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vscode-django - INSTALLING
+
+[x] - EXTENSION: vscode-django INSTALLED.
+      26 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vscode-eslint - INSTALLING
+
+[x] - EXTENSION: vscode-eslint INSTALLED.
+      27 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vscode-html-css - INSTALLING
+
+[x] - EXTENSION: vscode-html-css INSTALLED.
+      28 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vscode-icons - INSTALLING
+
+[x] - EXTENSION: vscode-icons INSTALLED.
+      29 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vscode-intelephense-client - INSTALLING
+
+[x] - EXTENSION: vscode-intelephense-client INSTALLED.
+      30 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vscode-twig-pack - INSTALLING
+
+[x] - EXTENSION: vscode-twig-pack INSTALLED.
+      31 OF 32 INSTALLED
+
+
+[x] - EXTENSION: vscodeintellicode - INSTALLING
+
+[x] - EXTENSION: vscodeintellicode INSTALLED.
+      32 OF 32 INSTALLED
+
+CODE SETTINGS SYNC DOWNLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: 49eb**********
+GitHub Gist: 51deaf42794216cf886711a46be3cf0b
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Downloaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  awesome-flutter-snippets v2.0.3
+  better-comments v2.0.5
+  Bookmarks v11.2.0
+  bracket-pair-colorizer v1.0.61
+  color-highlight v2.3.0
+  cpptools v0.28.3
+  csharp v1.22.0
+  format-html-in-php v1.6.2
+  html-css-class-completion v1.19.0
+  html-snippets v0.2.1
+  JavaScriptSnippets v1.8.0
+  kite v0.117.0
+  LiveServer v5.6.1
+  MagicPython v1.1.0
+  php-intellisense v2.3.14
+  prettier-vscode v5.0.0
+  python v2020.5.86806
+  python v0.2.3
+  python-extended-snippets v0.0.1
+  python-extension-pack v1.6.0
+  pythonsnippets v1.0.2
+  theme-dracula v2.22.1
+  twig v1.0.2
+  vsc-python-indent v1.10.1
+  vscode-css-peek v3.0.2
+  vscode-django v0.20.0
+  vscode-eslint v2.1.5
+  vscode-html-css v0.2.3
+  vscode-icons v10.1.1
+  vscode-intelephense-client v1.4.1
+  vscode-twig-pack v1.1.0
+  vscodeintellicode v1.2.8
+--------------------
+Done.

@@ -1,0 +1,5 @@
+2020/06/26-22:07:00.721 9622 Reusing MANIFEST /home/adame/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/26-22:07:09.831 62a Level-0 table #5: started
+2020/06/26-22:07:09.877 62a Level-0 table #5: 2963 bytes OK
+2020/06/26-22:07:09.934 62a Delete type=0 #3
+2020/06/26-22:07:09.935 62a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/06/16-23:39:23.687 c81 Reusing MANIFEST /home/adame/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/16-23:40:07.072 cd4 Level-0 table #5: started
+2020/06/16-23:40:07.115 cd4 Level-0 table #5: 1642 bytes OK
+2020/06/16-23:40:07.148 cd4 Delete type=0 #3
+2020/06/16-23:40:07.149 cd4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

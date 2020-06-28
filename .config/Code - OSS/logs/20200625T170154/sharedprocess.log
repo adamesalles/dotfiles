@@ -1,0 +1,18 @@
+[2020-06-25 17:01:59.389] [sharedprocess] [info] main {"machineId":"8f5dd47b776b60097944188d40e517d7473783776223de9b44e8296de8130f03","windowId":2}
+[2020-06-25 17:02:01.536] [sharedprocess] [info] Deleted from disk alefragnani.bookmarks /home/adame/.vscode-oss/extensions/alefragnani.bookmarks-11.2.0
+[2020-06-25 17:02:01.538] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/adame/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0
+[2020-06-25 17:02:02.250] [sharedprocess] [info] Deleted from disk ms-dotnettools.csharp /home/adame/.vscode-oss/extensions/ms-dotnettools.csharp-1.22.0
+[2020-06-25 17:02:02.293] [sharedprocess] [info] Deleted from disk ms-python.python /home/adame/.vscode-oss/extensions/ms-python.python-2020.5.86806
+[2020-06-25 17:02:06.039] [sharedprocess] [info] Installing extension: kiteco.kite
+[2020-06-25 17:02:06.039] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-25 17:02:07.295] [sharedprocess] [info] Downloaded extension: kiteco.kite /tmp/44d80855-5425-4317-b8a3-265bfcb1014f
+[2020-06-25 17:02:07.386] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.kiteco.kite-0.119.0: kiteco.kite
+[2020-06-25 17:02:07.386] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/kiteco.kite-0.119.0
+[2020-06-25 17:02:07.387] [sharedprocess] [info] Installation completed. kiteco.kite
+[2020-06-25 17:02:07.468] [sharedprocess] [info] Extensions installed successfully: kiteco.kite
+[2020-06-25 17:02:19.757] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/b4fd7246-d451-4a91-bc1a-c3127ff4a90c
+[2020-06-25 17:02:26.054] [sharedprocess] [info] Extracted extension to /home/adame/.vscode-oss/extensions/.ms-python.python-2020.6.90262: ms-python.python
+[2020-06-25 17:02:26.055] [sharedprocess] [info] Renamed to /home/adame/.vscode-oss/extensions/ms-python.python-2020.6.90262
+[2020-06-25 17:02:26.065] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-25 17:02:26.198] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-06-25 17:02:39.418] [sharedprocess] [info] Starting to clean up unused language packs.
